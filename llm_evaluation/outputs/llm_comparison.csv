@@ -1,0 +1,7 @@
+indicator,llama3.1-8b,qwen2.5-7b
+dehumanization,0.107,0.089
+glorification,0.114,0.0
+grievance,0.128,0.14
+ig_outgroup,0.349,0.233
+mobilization,0.222,0.136
+threat,0.294,0.435

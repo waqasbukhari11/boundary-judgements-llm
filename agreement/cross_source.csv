@@ -1,0 +1,6 @@
+indicator,test_positives,crosssource_aucpr,base_rate,in_domain_aucpr
+ig_outgroup,34,0.605,0.111,0.532
+mobilization,14,0.11,0.046,0.441
+grievance,6,0.215,0.02,0.429
+threat,4,0.16,0.013,0.315
+dehumanization,1,0.005,0.003,0.142

@@ -1,0 +1,7 @@
+indicator,positives,ref_rate_pos,ref_rate_neg,lift,p_value
+ig_outgroup,199,0.608,0.283,2.15,0.0
+dehumanization,30,0.633,0.319,1.98,0.0006
+grievance,78,0.603,0.311,1.94,0.0
+glorification,10,0.4,0.325,1.23,0.8691
+mobilization,60,0.433,0.321,1.35,0.0938
+threat,39,0.333,0.325,1.02,1.0

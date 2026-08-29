@@ -1,0 +1,31 @@
+round,guideline,n_double_annotated,indicator,krippendorff_alpha
+Pilot,v1.0,100,ig_outgroup,0.905
+Pilot,v1.0,100,threat,0.884
+Pilot,v1.0,100,grievance,0.787
+Pilot,v1.0,100,dehumanization,0.641
+Pilot,v1.0,100,mobilization,0.581
+Pilot,v1.0,100,glorification,
+Calibration,v1.1,50,ig_outgroup,0.821
+Calibration,v1.1,50,grievance,0.697
+Calibration,v1.1,50,glorification,0.649
+Calibration,v1.1,50,mobilization,0.637
+Calibration,v1.1,50,dehumanization,0.484
+Calibration,v1.1,50,threat,
+Full-run (canonical),v1.1 FINAL,350,ig_outgroup,0.987
+Full-run (canonical),v1.1 FINAL,350,grievance,0.978
+Full-run (canonical),v1.1 FINAL,350,mobilization,0.926
+Full-run (canonical),v1.1 FINAL,350,dehumanization,0.908
+Full-run (canonical),v1.1 FINAL,350,threat,0.908
+Full-run (canonical),v1.1 FINAL,350,glorification,0.888
+Mining,v1.1 FINAL,320,ig_outgroup,0.889
+Mining,v1.1 FINAL,320,threat,0.892
+Mining,v1.1 FINAL,320,mobilization,0.629
+Mining,v1.1 FINAL,320,grievance,0.533
+Mining,v1.1 FINAL,320,glorification,0.242
+Mining,v1.1 FINAL,320,dehumanization,0.189
+Solo2 (re-labelled),v1.1 FINAL,200,ig_outgroup,0.797
+Solo2 (re-labelled),v1.1 FINAL,200,threat,0.756
+Solo2 (re-labelled),v1.1 FINAL,200,dehumanization,0.657
+Solo2 (re-labelled),v1.1 FINAL,200,mobilization,0.638
+Solo2 (re-labelled),v1.1 FINAL,200,glorification,0.325
+Solo2 (re-labelled),v1.1 FINAL,200,grievance,0.276

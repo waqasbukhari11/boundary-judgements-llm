@@ -1,0 +1,31 @@
+Data and Figures License
+========================
+
+The LABELS in `data/`, the agreement outputs in `agreement/`, the taxonomy in
+`taxonomy/`, the guidelines in `guidelines/`, and the figures in `figures/` are
+the authors' original contribution, released under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this material for any purpose, provided you give
+appropriate credit (see CITATION.md) and indicate if changes were made.
+
+No source post text is redistributed
+------------------------------------
+This resource does NOT include the underlying post text. The post text is
+derived from two pre-existing public Roman Urdu datasets whose redistribution
+terms we do not control:
+  * RUHSOLD (Rizwan, Shakeel, Karim, EMNLP 2020)
+  * RU-HSD-30K (Bilal, https://github.com/Bilal4209/RU-HSD-30K)
+
+To keep this release compliant regardless of those datasets' terms, we release
+LABELS ONLY, keyed by `tweet_id` = 'ru' + md5(normalized_text)[:10]. To attach
+text, obtain the two source datasets under their own terms and run
+`code/rehydrate.py`, which recomputes the same identifiers and joins the labels
+back to the text locally. See "Reconstructing the text" in README.md.
+
+Any illustrative examples in `guidelines/` and `taxonomy/` are the authors' own
+paraphrases, not verbatim source posts.
+
+Code is licensed separately under the MIT License (see LICENSE).

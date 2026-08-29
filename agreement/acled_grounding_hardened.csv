@@ -1,0 +1,7 @@
+indicator,odds_ratio,or_95ci,perm_p,n_pos,verdict
+ig_outgroup,3.93,"[2.89,5.34]",0.0002,199,robust
+dehumanization,3.68,"[1.76,7.69]",0.0006,30,robust
+grievance,3.36,"[2.12,5.35]",0.0002,78,robust
+glorification,1.38,"[0.41,4.62]",0.4187,10,null
+mobilization,1.62,"[0.96,2.71]",0.0536,60,fragile
+threat,1.04,"[0.53,2.01]",0.5143,39,null

@@ -1,0 +1,644 @@
+tweet_id,raw,status,ig_outgroup,dehumanization,grievance,glorification,mobilization,threat
+ru832d2d67dd,"```json
+{""labels"": [""ig_outgroup"", ""threat""]}
+```",ok,1,0,0,0,0,1
+ru685e2ed62d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rua5de16ac86,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru25019df289,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru5d498aeedf,"{""labels"": []}",ok,0,0,0,0,0,0
+rub4484f0457,"{""labels"": []}",ok,0,0,0,0,0,0
+ru049ed63847,"```json
+{""labels"": [""grievance"", ""glorification""]}
+```",ok,0,0,1,1,0,0
+ru39d9e1c645,"```json
+{""labels"": [""glorification""]}
+```",ok,0,0,0,1,0,0
+ruc6e89baf97,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+rufeb61c336a,"```json
+{""labels"": [""ig_outgroup"", ""threat""]}
+```",ok,1,0,0,0,0,1
+ru197a8adbf7,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru3bf69619f4,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+ru10fa4e2dc0,"{""labels"": [""mobilization""]}",ok,0,0,0,0,1,0
+ruef01711a4f,"```json
+{""labels"": [""ig_outgroup"", ""grievance""]}
+```",ok,1,0,1,0,0,0
+rudac55b099e,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruda787a1ee0,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru1eb0ac9d85,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+ru3f9cd3bbb2,"```json
+{""labels"": [""grievance"", ""mobilization""]}
+```",ok,0,0,1,0,1,0
+ruca4519b810,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru6df024e498,"```json
+{""labels"": [""grievance"", ""ig_outgroup""]}
+```",ok,1,0,1,0,0,0
+ruade6a53ecc,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub429d14dca,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru2f24cca41e,"```json
+{
+  ""labels"": [""grievance"", ""dehumanization"", ""threat""]
+}
+```",ok,0,1,1,0,0,1
+ru51865f25dd,"```json
+{""labels"": [""threat"", ""grievance""]}
+```",ok,0,0,1,0,0,1
+rucf776fcc4d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru4c4a4c0f16,"```json
+{""labels"": [""mobilization"", ""threat""]}
+```",ok,0,0,0,0,1,1
+ru7cbd75d993,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru87c39f2995,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru54147aba1b,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru68954d69da,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""glorification"", ""threat""]}
+```",ok,1,1,0,1,0,1
+ru6a309e22d1,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru73031520a6,"```json
+{
+  ""labels"": [""ig_outgroup"", ""grievance"", ""threat""]
+}
+```",ok,1,0,1,0,0,1
+rub0c05a623b,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru41be0a9a60,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+rub8c176cfad,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rud34ca9607e,"{""labels"": []}",ok,0,0,0,0,0,0
+rub95730f8cd,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ruaa04c7abb1,"```json
+{""labels"": [""glorification"", ""mobilization"", ""threat""]}
+```",ok,0,0,0,1,1,1
+rua3df3d8b63,"{""labels"": [""mobilization""]}",ok,0,0,0,0,1,0
+ru5fa6aebe94,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+ru1c19fc2b45,"{""labels"": []}",ok,0,0,0,0,0,0
+rueef3ececf2,"```json
+{""labels"": [""mobilization"", ""threat""]}
+```",ok,0,0,0,0,1,1
+ru77fd31c427,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+ru5ae9479bb0,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization""]}
+```",ok,1,1,0,0,0,0
+ru7b9e64071f,"```json
+{""labels"": [""glorification"", ""grievance""]}
+```",ok,0,0,1,1,0,0
+ru8b7a0cdbe6,"```json
+{""labels"": [""grievance"", ""mobilization"", ""threat""]}
+```",ok,0,0,1,0,1,1
+ru6f2962e3bd,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+rue70acd4539,"```json
+{""labels"": [""dehumanization""]}
+```",ok,0,1,0,0,0,0
+ru86ed9f2bcd,"```json
+{""labels"": [""dehumanization"", ""grievance"", ""threat""]}
+```",ok,0,1,1,0,0,1
+rucc2bb348b3,"```json
+{""labels"": [""grievance"", ""dehumanization""]}
+```",ok,0,1,1,0,0,0
+rudc59034c6c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru676619cde3,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance""]}
+```",ok,1,1,1,0,0,0
+ru5ec636ff9d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru19bd812954,"{""labels"": [""dehumanization"", ""threat""]}",ok,0,1,0,0,0,1
+ru5ce88cd224,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru796c41040d,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+rua9d0b6937b,"```json
+{""labels"": [""grievance"", ""mobilization""]}
+```",ok,0,0,1,0,1,0
+ru6d9e2f79d6,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru25bfddad32,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+ruf4dc50773c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru3770073890,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru5cf22ea56d,"```json
+{
+  ""labels"": [""glorification"", ""threat""]
+}
+```",ok,0,0,0,1,0,1
+ru5a8cba8112,"```json
+{""labels"": [""ig_outgroup"", ""grievance""]}
+```",ok,1,0,1,0,0,0
+ru601295aeaa,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+rua5dff6b2da,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru17598c94cd,"{""labels"": []}",ok,0,0,0,0,0,0
+ru5e3f066305,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruca5cf66061,"```json
+{""labels"": [""ig_outgroup"", ""threat""]}
+```",ok,1,0,0,0,0,1
+ru7b4d948c52,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""glorification""]}
+```",ok,1,1,0,1,0,0
+rue6efa64022,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rufa50597223,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru86570b379e,"```json
+{""labels"": [""ig_outgroup"", ""grievance"", ""mobilization""]}
+```",ok,1,0,1,0,1,0
+ru91fcca0b91,"{""labels"": []}",ok,0,0,0,0,0,0
+ru77a9db2787,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru20b5157cb9,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+ru70c9c804a6,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru098a138d41,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru4d37dbcfc7,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub8bfcceabd,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance""]}
+```",ok,1,1,1,0,0,0
+rud5ab980d51,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru286a7be74e,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru5d9a3d79b0,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ruf39c09096b,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru809eba57fe,"```json
+{""labels"": [""mobilization""]}
+```",ok,0,0,0,0,1,0
+ruf7c222667d,"```json
+{""labels"": [""mobilization""]}
+```",ok,0,0,0,0,1,0
+ru7f05eea102,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru89d16672e6,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rude0ff93df3,"{""labels"": []}",ok,0,0,0,0,0,0
+ruc72641bd71,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+ru195c8018b5,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru6be73a95e9,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru490713563d,"```json
+{""labels"": [""ig_outgroup"", ""grievance""]}
+```",ok,1,0,1,0,0,0
+ru94a97e7a85,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rufde5b41fae,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru6edc401377,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru5e3b457b2e,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru7e1d9d6aef,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru42dc416ae0,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru1bab4393e3,"```json
+{""labels"": [""glorification""]}
+``` 
+
+The post describes a killing by the army in Srinagar, framing the young person killed as a 'shaheed' (martyr), which implies a moral justification of the death as a form of martyrdom. This aligns with the definition of",ok,0,0,0,1,0,0
+ru1cdca1a7b1,"```json
+{""labels"": [""dehumanization""]}
+```",ok,0,1,0,0,0,0
+rue370e4edd6,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru1403ad041e,"{""labels"": []}",ok,0,0,0,0,0,0
+ru9f5256ad83,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rud95f6b9e22,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru777d3ef624,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru83af57dd33,"```json
+{""labels"": [""ig_outgroup"", ""grievance""]}
+```",ok,1,0,1,0,0,0
+rud3a9a44b08,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru5bf482375e,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru618c7f99bf,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru1b67351665,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruaccf47eebe,"{""labels"": []}",ok,0,0,0,0,0,0
+ru056d70f12d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru18ff1bd1ea,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rue0b66e97c5,"```json
+{""labels"": [""dehumanization""]}
+```",ok,0,1,0,0,0,0
+ru812a9b5ead,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru76a7c912e4,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+rud18f3fde2c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru3be07c0b6a,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruf17b2a442b,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru64b87f5881,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru26c99f95a8,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rudd60271e98,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru45f446bd44,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub3874ffec5,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru6704d0b65b,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru9de794b72e,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru4b9c161141,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru5b90d63a13,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru66389fdaac,"```json
+{""labels"": [""mobilization""]}
+```",ok,0,0,0,0,1,0
+rue82acb9b45,"```json
+{""labels"": [""dehumanization""]}
+```",ok,0,1,0,0,0,0
+ruf67f9670d2,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru1746669db1,"```json
+{""labels"": [""ig_outgroup""]}
+```",ok,1,0,0,0,0,0
+rud03e1528c1,"{""labels"": []}",ok,0,0,0,0,0,0
+ru0ba1d92521,"```json
+{""labels"": [""glorification"", ""threat""]}
+```",ok,0,0,0,1,0,1
+ru11a37c6913,"```json
+{
+  ""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance"", ""glorification"", ""threat""]
+}
+```",ok,1,1,1,1,0,1
+rucdb84fc587,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru5e3a7329dc,"```json
+{""labels"": [""ig_outgroup"", ""grievance"", ""dehumanization""]}
+```",ok,1,1,1,0,0,0
+ru77ee44349e,"```json
+{""labels"": [""ig_outgroup"", ""grievance"", ""threat""]}
+```",ok,1,0,1,0,0,1
+ruafe8a758d1,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru8a3643c53c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru936fc0d8e0,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru7862e019d3,"```json
+{""labels"": [""grievance"", ""ig_outgroup""]}
+```",ok,1,0,1,0,0,0
+ruc1315979e1,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru31192a9454,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruc1400ebce1,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru5c5e8ba86c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruffe8ba2110,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruca7048ac27,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+ru4fbda32c30,"{""labels"": []}",ok,0,0,0,0,0,0
+ru9928bdc088,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ruda1ca2110f,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+rubbe48b71ac,"{""labels"": []}",ok,0,0,0,0,0,0
+ru9e14a8c507,"{""labels"": []}",ok,0,0,0,0,0,0
+ru7107c166a5,"{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance"", ""threat""]}",ok,1,1,1,0,0,1
+ru15eaa5be00,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rud3edfac130,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru90f0d38e98,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru4c25014b46,"```json
+{""labels"": [""threat"", ""glorification""]}
+```",ok,0,0,0,1,0,1
+ru9ad208e115,"{""labels"": []}",ok,0,0,0,0,0,0
+ru1c64000ec6,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rude6a7085fc,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru94e6270434,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru3443ed716f,"```json
+{""labels"": [""grievance"", ""dehumanization""]}
+```",ok,0,1,1,0,0,0
+rua7ac481201,"```json
+{""labels"": [""ig_outgroup"", ""mobilization"", ""threat""]}
+```",ok,1,0,0,0,1,1
+ru9ab70ac489,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance""]}
+```",ok,1,1,1,0,0,0
+ru0fd966afb4,"```json
+{""labels"": [""glorification""]}
+```",ok,0,0,0,1,0,0
+ru08273f4849,"```json
+{""labels"": [""grievance""]}
+``` 
+
+The post implies that India has been wronged or humiliated by the Taliban's takeover of Afghanistan, which frames India as a victim or as having suffered a loss. This aligns with the definition of ""grievance"" as the in-group",ok,0,0,1,0,0,0
+rua404a2b2f0,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru4fcf166eb0,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru470191f311,"{""labels"": []}",ok,0,0,0,0,0,0
+rue1c7812893,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub7e7360dff,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru3df53b071f,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruc8c7658840,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rued78fff7f6,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru4f895b19c4,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru2a1b2881eb,"```json
+{""labels"": [""threat"", ""grievance""]}
+```",ok,0,0,1,0,0,1
+ruaacbfb8908,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru674a7ed0e5,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru1df47dd235,"```json
+{""labels"": [""ig_outgroup"", ""mobilization""]}
+```",ok,1,0,0,0,1,0
+ru89efd2cf62,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rud659518e8e,"```json
+{
+  ""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance"", ""threat""]
+}
+```",ok,1,1,1,0,0,1
+ru3134033638,"```json
+{""labels"": [""glorification"", ""mobilization"", ""threat""]}
+```",ok,0,0,0,1,1,1
+ruaee58e7de8,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub188469fb9,"{""labels"": []}",ok,0,0,0,0,0,0
+ru081c87e476,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+rudd33128e2e,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+ru713e526873,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru0c0413f70f,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru89e28562d8,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru87f9ad317d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru9a934ae07f,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rua6c7ef902e,"```json
+{""labels"": [""grievance"", ""threat""]}
+```",ok,0,0,1,0,0,1
+rua3e846a389,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru819d22c470,"```json
+{""labels"": [""glorification""]}
+```",ok,0,0,0,1,0,0
+ru8cf802b58b,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub9a382ad80,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru772413ddb2,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru9ac02d17df,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rue6997741bd,"{""labels"": [""dehumanization""]}",ok,0,1,0,0,0,0
+ru7f2a57200c,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+rue0fd234184,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruf24c8a4493,"```json
+{""labels"": [""ig_outgroup""]}
+```",ok,1,0,0,0,0,0
+ru71e27a3f86,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ruf75d9ff5b0,"```json
+{""labels"": [""dehumanization"", ""grievance""]}
+```",ok,0,1,1,0,0,0
+rubb6b8d4af1,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru11e12dadf4,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru72f08dd721,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance"", ""threat""]}
+```",ok,1,1,1,0,0,1
+ru218298a5ab,"```json
+{""labels"": [""ig_outgroup"", ""dehumanization"", ""grievance"", ""threat""]}
+```",ok,1,1,1,0,0,1
+rud9cb699b09,"{""labels"": []}",ok,0,0,0,0,0,0
+rub047b848b3,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru1bc2625f11,"```json
+{""labels"": [""grievance"", ""glorification""]}
+```",ok,0,0,1,1,0,0
+ru1294d54b92,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru31fe635f5d,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru606414faa1,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru9c855f214a,"```json
+{""labels"": [""grievance""]}
+```",ok,0,0,1,0,0,0
+ru29ed1edc6a,"{""labels"": [""threat""]}",ok,0,0,0,0,0,1
+rua3141f641c,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru3c78837fa5,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru94797ff1e7,"{""labels"": [""dehumanization""]}",ok,0,1,0,0,0,0
+rudeafee9679,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+ru4590984033,"```json
+{""labels"": [""dehumanization"", ""threat""]}
+```",ok,0,1,0,0,0,1
+rua6e39efc19,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+rub46f17703d,"{""labels"": [""ig_outgroup"", ""grievance""]}",ok,1,0,1,0,0,0
+rub5ce99b73c,"```json
+{""labels"": [""threat""]}
+```",ok,0,0,0,0,0,1
+ru5586a9d4b2,"```json
+{""labels"": []}
+```",ok,0,0,0,0,0,0
+ru0baa5b2c8a,"{""labels"": []}",ok,0,0,0,0,0,0
