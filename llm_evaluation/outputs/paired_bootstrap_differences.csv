@@ -1,0 +1,4 @@
+model_a,model_b,delta_macro_f1_6ind,ci_low,ci_high,p_two_sided
+Qwen2.5-7B,Llama-3.1-8B,-0.03,-0.089,0.028,0.298
+Qwen2.5-7B,Qwen2.5-72B,-0.07,-0.132,-0.006,0.033
+Llama-3.1-8B,Qwen2.5-72B,-0.039,-0.104,0.03,0.29
