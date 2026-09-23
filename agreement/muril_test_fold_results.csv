@@ -1,0 +1,6 @@
+indicator,positives,n_test,muril_auc_pr
+ig_outgroup,34,227,0.228
+grievance,11,227,0.048
+mobilization,9,227,0.069
+threat,8,227,0.027
+dehumanization,6,227,0.074

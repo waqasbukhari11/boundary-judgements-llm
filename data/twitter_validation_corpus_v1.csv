@@ -1,0 +1,1135 @@
+tweet_id,ig_outgroup,dehumanization,grievance,glorification,mobilization,threat,keyword_hits
+TW3d355c2773,0,0,0,0,0,0,['threat:khatam']
+TW3bf79e5ed3,0,0,0,0,1,1,['mobilization:protest']
+TW2a7fe607f8,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:ao']"
+TW1b8a1dcdbe,1,0,1,0,1,0,['grievance:haq']
+TWe076448022,0,0,0,0,0,0,['threat:badla']
+TWf341722829,1,0,1,0,0,0,"['ig_outgroup:patwari', 'ig_outgroup:ghulam', 'mobilization:ao']"
+TW29d67f5835,0,0,0,0,0,0,['mobilization:nikal']
+TW58be3bdb0e,0,0,1,0,0,1,['threat:khoon']
+TW5e13ac9514,1,0,0,0,0,0,['mobilization:ao']
+TWa9e8888405,0,0,0,0,1,0,['mobilization:uth']
+TW5cf98002e7,0,0,0,0,0,0,"['mobilization:nikal', 'threat:khoon']"
+TW9763a98a1d,0,0,0,0,0,0,"['glorification:shahadat', 'threat:anjaam']"
+TW7c2a60b0dc,1,0,0,0,0,0,"['ig_outgroup:dushman', 'grievance:haq']"
+TW40233ca76b,1,0,1,0,0,0,"['grievance:sitam', 'threat:tor']"
+TW5bfb7dbf89,1,0,0,1,0,0,['glorification:qurbani']
+TW0571c21a0e,0,0,0,0,0,0,['threat:tor']
+TW380fce331b,0,0,0,0,1,0,['mobilization:ao']
+TWb9fd9b630d,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWfe177e2b89,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW6feec1e146,0,0,0,0,0,0,['threat:tor']
+TW4daa32e72f,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TW3a0a98f575,0,0,0,0,0,0,['grievance:haq']
+TWaf4392639e,0,0,0,0,0,0,['mobilization:jago']
+TWa143766eea,0,0,0,0,0,0,['grievance:haq']
+TW16023031ec,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:call']"
+TW4a4374b13a,0,0,0,0,0,0,['mobilization:ao']
+TWcd52870713,0,0,0,0,1,0,['mobilization:ao']
+TW6b4001f950,0,0,0,0,0,0,"['grievance:haq', 'mobilization:band karo', 'threat:maar']"
+TWb3c2bb69e7,0,0,1,0,0,0,['grievance:zulm']
+TWfc8231ec7b,0,0,0,0,0,0,['threat:khatam']
+TW260468ba92,0,0,0,0,0,0,['threat:tor']
+TW231b79a725,0,0,1,0,0,0,"['grievance:zulm', 'grievance:na insafi', 'mobilization:nikal', 'mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TWda0b98796c,0,0,0,0,1,0,['mobilization:ao']
+TWe74b9fb918,0,0,0,0,0,1,['threat:khatam']
+TWd3840cdc91,0,0,0,0,0,0,['threat:tor']
+TW1e991ccc4e,1,0,0,0,0,0,['threat:tor']
+TW34ca3640c1,0,0,0,0,0,0,['mobilization:ehtejaj']
+TWa414de14fb,0,0,1,0,0,1,['threat:khoon']
+TWdd1e9f17fe,0,0,0,0,0,0,['threat:khatam']
+TW5b6ef7a702,0,0,0,0,0,0,['mobilization:ao']
+TW53dbf11962,0,0,0,0,0,0,['threat:khatam']
+TW24efb2cb12,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWac506407fb,0,0,0,0,0,1,"['mobilization:ao', 'threat:khatam']"
+TW45465ab41a,0,0,0,0,0,0,['mobilization:ao']
+TWff62232b0a,0,0,0,0,0,0,['threat:tor']
+TW0df5541408,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWeec62ead3e,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TWddac4b721b,0,0,0,0,0,0,['mobilization:jago']
+TWc526bb0ff2,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TWc22cd7d1e7,0,0,0,0,0,0,['mobilization:nikal']
+TW4e6ea43695,0,0,0,0,0,0,['threat:khatam']
+TWdc604d3b9f,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TWf9497f1fad,0,0,0,0,0,0,['threat:tor']
+TWf3eb17da50,0,0,0,0,0,0,['threat:khatam']
+TWc72fe29394,0,0,0,0,0,0,['grievance:haq']
+TW7913f51849,0,0,0,0,0,0,['mobilization:uth']
+TWc6c6bf5104,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TWf174a8c08e,1,0,1,0,0,0,"['ig_outgroup:ghulam', 'grievance:haq']"
+TWc681c5059a,0,0,0,0,0,0,['mobilization:uth']
+TW2fb02d110e,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:protest']"
+TWdacfe22c18,0,0,0,0,1,0,['mobilization:ao']
+TWbd4460899e,0,0,0,0,0,0,['ig_outgroup:ghulam']
+TWe72335fdb3,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW95e8ec8c2d,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TW96f92018a6,0,0,0,0,0,0,['mobilization:ao']
+TWe8a8f807cc,0,0,1,0,0,0,"['grievance:zulm', 'grievance:sitam', 'threat:khoon']"
+TW1eedc4adf9,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW1782503844,0,0,0,0,0,0,['ig_outgroup:dushman']
+TWe1f5c07d03,0,0,0,0,0,0,['mobilization:ao']
+TW6c6e854e3c,0,0,0,0,0,0,['grievance:haq']
+TWf6a90133d7,0,0,0,0,0,0,['grievance:haq']
+TWada3aba367,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'mobilization:uth']"
+TWace52df067,0,0,0,0,0,0,['threat:khatam']
+TW4a6713f0be,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TWd973779933,1,0,0,0,0,0,['grievance:haq']
+TWa5c708c8cd,0,0,1,0,0,0,"['mobilization:ao', 'threat:khatam']"
+TW0af397c42a,0,0,1,0,0,0,['grievance:zulm']
+TW6eaa1cb879,0,0,0,0,0,0,['mobilization:ao']
+TW0671bcbb87,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWdf2c10e75f,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TW5383fa8535,0,0,0,0,0,0,['mobilization:nikal']
+TWd91ccc9b64,0,0,0,0,0,0,['mobilization:protest']
+TW9cf2100aaf,0,0,0,0,0,0,['grievance:haq']
+TW83715d5311,0,0,0,0,0,0,['threat:tor']
+TW7f49899efb,0,0,0,0,0,0,['mobilization:uth']
+TW1a353fc78d,0,0,0,0,1,0,['mobilization:niklo']
+TW7fb8021da0,1,0,0,1,0,0,"['glorification:shahadat', 'mobilization:uth']"
+TW39efdbe994,0,0,0,0,0,0,['mobilization:ao']
+TWf85bd5d18a,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TW22b2501877,0,0,0,1,0,0,['glorification:shaheed']
+TW88e4d50984,1,0,0,1,0,0,['glorification:shahadat']
+TWf4f3d2519c,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TWcea5ff2be7,0,0,0,0,0,0,['threat:maar']
+TWa271362696,0,0,0,0,0,0,['mobilization:ao']
+TWba66919383,0,0,0,0,0,0,['mobilization:nikal']
+TWb6fd11aa5b,0,0,0,0,0,0,['mobilization:nikal']
+TW84c5202535,1,0,0,0,0,0,['mobilization:call']
+TW998eb3c5b8,1,0,1,0,0,0,"['grievance:zulm', 'mobilization:uth']"
+TW1b8b2daf48,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TW5e3c2a409c,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TW5ff699eb1f,0,0,1,0,0,1,['grievance:zulm']
+TWac7019278c,1,0,1,0,0,0,['ig_outgroup:ghulam']
+TW92866d21ad,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TWbb9a16d84a,0,0,0,0,0,0,"['grievance:haq', 'threat:khoon']"
+TWc80c8e76f2,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW1e9288f03b,0,0,0,0,1,0,['mobilization:protest']
+TW1fc9342e12,0,0,0,0,0,0,['threat:khoon']
+TWbd3632cb15,0,0,0,0,0,0,['threat:khatam']
+TW8f2c7239b0,0,0,0,0,0,0,['mobilization:uth']
+TW5d8eaed595,0,0,0,0,0,0,['threat:khatam']
+TWc61fe83d7e,0,0,0,0,0,0,"['grievance:haq', 'grievance:mehroom']"
+TWc3bf93bb83,0,0,0,0,0,0,['mobilization:ao']
+TW5d7bc0b875,0,0,0,0,1,0,['mobilization:protest']
+TW84286420cd,0,0,0,0,0,0,['mobilization:nikal']
+TWfd4ce85191,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW41ccb94c19,0,0,0,0,0,0,"['mobilization:uth', 'threat:tor', 'threat:khoon']"
+TW09bc834833,0,0,0,0,0,0,['threat:khatam']
+TW73c4d4d4df,0,0,0,0,0,0,['mobilization:nikal']
+TW8f890c4522,0,0,1,0,0,0,"['grievance:zulm', 'glorification:shahadat']"
+TWe993a7e1b8,0,0,0,0,1,0,['mobilization:protest']
+TW47d2850626,0,0,0,0,0,0,['mobilization:nikal']
+TW4410389811,0,0,0,0,0,0,['threat:khatam']
+TW9fe64043f9,0,0,0,0,0,0,['mobilization:nikal']
+TW8f81b80c82,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW6d8ece4d93,0,0,0,0,0,0,['mobilization:ao']
+TW0d65266d81,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWa9a22d0896,1,0,0,0,1,0,['mobilization:protest']
+TWf66ccc1005,0,0,0,0,0,0,['mobilization:protest']
+TWdaf1447c0d,0,0,0,0,0,0,['mobilization:ao']
+TW9ec3ce2e8e,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW976cf9e5ab,0,0,0,0,0,0,['mobilization:nikal']
+TW35f06756c0,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TWbd2c007bcb,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW096f3ac0a0,0,0,0,0,0,0,['ig_outgroup:dushman']
+TWff2efa7a10,0,0,1,0,0,0,"['mobilization:march', 'threat:tor']"
+TW041b774238,0,0,1,0,0,0,"['grievance:zulm', 'threat:intiqam']"
+TWcc518d40d3,0,0,0,0,0,0,['threat:maar']
+TWc89c9ddda4,0,0,0,0,1,1,"['mobilization:ao', 'mobilization:tayyar']"
+TWfa055e2ca9,1,0,0,1,0,0,"['glorification:shaheed', 'glorification:shahadat']"
+TW5d324b457d,0,0,1,0,0,0,['grievance:zulm']
+TW54b48886fd,0,0,0,0,0,0,"['grievance:haq', 'mobilization:call']"
+TW2c7b3e54ce,0,0,0,0,0,0,['mobilization:ao']
+TW1af8c6f9be,0,0,0,0,0,0,['mobilization:nikal']
+TWc7c7537198,0,0,0,0,0,0,['mobilization:ao']
+TW1f9cfbe47c,0,0,0,0,0,0,['threat:khatam']
+TW3dcaceb31e,0,0,0,0,0,0,['mobilization:ao']
+TW76646c167d,0,0,0,0,0,0,['threat:khatam']
+TW9c5d831ba9,0,0,0,0,0,0,['threat:khoon']
+TW8be673289b,0,0,0,0,0,0,['mobilization:uth']
+TW42cca2b465,0,0,0,0,0,0,['mobilization:ao']
+TWb8726ffbc0,0,0,1,0,0,0,['grievance:zulm']
+TWf09eb62dd1,0,0,0,0,0,0,"['threat:khatam', 'threat:tor']"
+TW69ef640256,0,0,0,0,0,0,['threat:tor']
+TW2ebb04fad5,0,0,0,0,0,0,['threat:tor']
+TW19e9fb02d4,0,0,0,0,1,0,"['mobilization:ao', 'threat:maar']"
+TWf10dcdc53c,0,0,0,0,0,0,['grievance:haq']
+TW3cd5c59000,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:ao']"
+TW4590ba8b5e,0,0,0,0,1,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW25722c8316,0,0,0,0,0,0,['mobilization:march']
+TW272c12f575,1,0,1,0,0,0,['grievance:zulm']
+TW52f7982a45,0,0,0,0,0,0,['grievance:haq']
+TW4082ddd198,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW21a1b5fcc0,0,0,0,0,0,0,"['ig_outgroup:bhikari', 'mobilization:nikal', 'threat:tor']"
+TWaeb8cdcc36,0,0,0,0,0,0,['mobilization:uth']
+TW6aa69c75e7,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TW94087ce8f2,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:jago']"
+TWb41b6dc32c,1,0,0,0,0,0,"['grievance:nainsafi', 'threat:intiqam']"
+TW667c46529a,0,0,0,0,0,0,['threat:tor']
+TW102c559326,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWefcb4e9998,1,0,0,1,0,0,"['ig_outgroup:ghaddar', 'glorification:shaheed', 'mobilization:nikal']"
+TWfa54073fb8,0,0,0,0,0,1,['threat:maar']
+TW88b1639be4,0,0,0,0,0,0,['grievance:haq']
+TW8ddef2ee02,0,0,0,0,1,0,['mobilization:protest']
+TWdbb3b618dc,0,0,0,0,0,0,['mobilization:uth']
+TW665ccfcc89,0,0,0,0,0,0,['mobilization:ao']
+TW005a61190d,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWf7bb400a9f,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWf8c8f833c4,0,1,0,0,0,0,"['ig_outgroup:gaddar', 'dehumanization:kutta', 'dehumanization:kuttay']"
+TWda311cb4d2,1,0,0,0,0,0,['threat:badla']
+TW8a4dba8c1f,1,0,0,0,0,0,['grievance:haq']
+TW323f39e3d7,1,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'mobilization:ao', 'mobilization:aao']"
+TWd141302949,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:ao']"
+TWdc51546f62,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TW59ba68b205,0,0,0,0,0,0,['mobilization:tayyar']
+TW662399f1f6,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWf627a2f2ae,1,0,0,0,0,0,['threat:intiqam']
+TW4e198e7d7a,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW1d4a4724eb,0,0,0,0,0,0,['mobilization:uth']
+TWb026b63a67,0,0,1,0,0,0,['threat:tor']
+TW07ad366c23,0,0,0,0,0,0,['threat:khatam']
+TW8e71c539a7,1,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TWf837feb298,0,0,0,0,1,0,"['grievance:haq', 'mobilization:niklo']"
+TWe2f3515931,0,0,0,0,0,0,"['ig_outgroup:patwari', 'threat:khatam']"
+TW3f8c23f892,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TWa630dc5fb4,0,0,0,0,1,0,['mobilization:ao']
+TWdfb3bb1bbf,0,0,0,0,0,0,['mobilization:march']
+TW4275d920b2,0,0,0,0,0,0,['threat:tor']
+TW7fbd971a34,0,0,0,0,0,0,['grievance:haq']
+TWef851b6f48,0,0,0,0,0,0,['grievance:haq']
+TW7dc5db1df9,0,0,0,0,0,0,['mobilization:uth']
+TW597d5ed6f5,1,0,0,0,0,0,"['grievance:haq', 'threat:intiqam']"
+TW179d3363a9,0,0,0,0,0,0,['mobilization:nikal']
+TWf824526fad,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW7e5e5e56de,0,0,0,0,0,0,['grievance:haq']
+TW5bcd2ae19c,0,0,0,0,0,0,"['mobilization:tayyar', 'threat:khatam']"
+TWbdfe2e5b48,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW7e6e4dfbad,0,0,0,0,0,0,"['mobilization:nikal', 'threat:khoon']"
+TW345b5bbf5b,0,0,0,0,0,0,['threat:tor']
+TWfc40bf0c37,0,0,0,0,0,0,['mobilization:uth']
+TW2c30edf00f,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWb5339738fc,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:ao']"
+TWeba3ec138a,0,0,0,0,0,0,['threat:khatam']
+TW9a9b85a202,0,0,0,0,0,0,['mobilization:nikal']
+TW6883a25016,0,0,0,0,0,0,['grievance:haq']
+TW99e8cef0dc,1,0,0,0,0,0,['ig_outgroup:patwari']
+TWf4179b4c12,0,0,0,0,0,0,['mobilization:ao']
+TWf6ed32df53,0,0,0,0,0,0,"['ig_outgroup:patwari', 'mobilization:ao', 'threat:maar']"
+TWb63cffee08,0,0,0,0,0,0,['threat:maar']
+TW6f4db8fdba,0,0,0,0,0,0,['mobilization:nikal']
+TW7f7bb8880b,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ehtejaj']"
+TWe1b0067bd7,0,0,0,1,0,0,"['glorification:shaheed', 'threat:maar']"
+TW255a3f78ec,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TWeb3c8d2ef7,0,0,0,0,0,0,['mobilization:nikal']
+TWd894588491,0,0,0,0,0,0,['mobilization:uth']
+TWff0347783a,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW231c89ea0b,0,0,0,0,0,0,['grievance:haq']
+TW24eb1b4e12,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TW24b264664f,0,0,0,0,0,0,"['ig_outgroup:ghulam', 'mobilization:uth', 'threat:khatam', 'threat:tor']"
+TWf6b0f73b58,0,0,0,0,0,0,['threat:khatam']
+TW52957bcb5f,0,0,0,0,0,0,['grievance:haq']
+TW7d5f50a7eb,0,0,0,0,0,0,['mobilization:ao']
+TW79d01e1e4d,0,0,0,0,0,0,['threat:intiqam']
+TW9fd148300d,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:march']"
+TW4f906ba158,0,0,0,0,0,0,['grievance:haq']
+TWad4eabebe1,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW0baf8dfd37,1,0,0,0,0,0,['mobilization:call']
+TWcb9574dc5a,0,0,0,0,1,0,['mobilization:ao']
+TWfdfc86aee0,0,0,1,0,0,1,['threat:khoon']
+TW494c211817,0,0,0,0,0,0,['threat:tor']
+TWa20e4c61d0,0,0,0,0,0,0,"['threat:khatam', 'threat:tor']"
+TW70920fb81b,0,0,0,0,0,0,['mobilization:ao']
+TW1715cfa811,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW622d8f6bb6,0,0,0,0,0,0,['grievance:haq']
+TW6a2273fa17,0,0,0,0,0,0,['mobilization:ehtejaj']
+TWa86a8b0e99,1,0,0,0,0,0,['mobilization:march']
+TW8da4df9c89,0,0,0,0,0,0,['mobilization:call']
+TW0ad209408c,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWc6f8add41b,1,0,1,0,0,1,"['ig_outgroup:ghulam', 'mobilization:ao']"
+TW6d1c0efde3,0,0,0,0,0,0,['mobilization:ao']
+TWf3d73d6bc3,0,0,0,0,0,0,['mobilization:ao']
+TW81197c1623,0,0,0,0,0,0,['mobilization:nikal']
+TWcc28b6ccea,0,0,0,0,0,0,"['mobilization:uth', 'threat:khatam']"
+TWc214ef2a8c,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW513120ac93,0,0,0,0,0,0,['threat:intiqam']
+TW38d36b0dc2,1,0,0,0,0,0,['ig_outgroup:ghaddar']
+TW64f27dface,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWb2feb5adb7,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TWb79c67503a,0,0,0,0,0,0,"['mobilization:ao', 'threat:khatam']"
+TW17d773b007,0,0,0,0,0,0,"['grievance:haq', 'grievance:mehroom']"
+TW540122cc18,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWbf857d237b,0,0,0,0,0,0,"['ig_outgroup:bhikari', 'grievance:haq']"
+TW1759bef5a7,0,0,0,0,0,0,['threat:tor']
+TW1b8981457b,0,0,0,0,0,0,['grievance:haq']
+TWb8e4e48e9d,0,0,0,0,0,0,['threat:khatam']
+TWcb359f2ca3,0,0,0,0,0,0,['threat:tor']
+TW82a15b1fbb,0,0,0,0,0,0,['threat:tor']
+TW5c3157c6a4,1,0,0,0,0,0,"['ig_outgroup:dushman', 'threat:tor']"
+TW3349cf6bc3,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW92b56a5d06,0,0,0,0,0,0,['mobilization:nikal']
+TW404363ab61,0,0,0,1,0,0,['glorification:shaheed']
+TW50a7564e78,0,0,0,0,0,0,['threat:tor']
+TW5606663f8f,0,0,0,0,0,0,['mobilization:ao']
+TW17c0bc4be1,0,0,0,0,0,0,['mobilization:nikal']
+TW70f8389b56,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW33c6342fde,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWf0bf5b29fb,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW1e028dceab,0,0,0,0,0,0,['threat:tor']
+TW592de95765,0,0,0,0,0,0,['grievance:haq']
+TWd56a8a4efa,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW67ffda88c4,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW8e23e7f0f6,0,0,0,0,0,0,['mobilization:uth']
+TWf14d36494c,0,0,0,0,0,0,['mobilization:nikal']
+TW925b1b0286,0,0,0,0,0,0,['grievance:haq']
+TWadf47dde5d,0,0,0,0,0,0,['mobilization:uth']
+TWc356a91ee0,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWbfedd70fce,0,0,0,0,0,0,['mobilization:ao']
+TWd27f3e27b2,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'mobilization:march', 'mobilization:dharna']"
+TW221c69d8ce,0,0,0,0,0,0,['mobilization:uth']
+TWec91f7e0f5,0,0,0,0,0,0,['grievance:haq']
+TW26721e55dc,0,0,0,0,0,0,['grievance:haq']
+TW5ca8855b99,0,0,0,0,0,0,['mobilization:ao']
+TW23a782a231,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TW8cbf9ed7b4,0,0,0,0,0,0,['grievance:haq']
+TW119411d155,1,0,0,0,1,0,['mobilization:protest']
+TW94b9b5dd14,0,0,0,0,0,0,['mobilization:call']
+TW9ea6bfbd6e,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW3a144b04aa,0,0,0,0,0,0,['grievance:haq']
+TW0260999fa3,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:tayyar']"
+TWa0ac7bae22,0,0,0,0,0,0,['mobilization:uth']
+TWafa8e550c2,0,0,0,0,0,0,['mobilization:ao']
+TW01b3de5faf,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TWe0391c43eb,0,0,0,0,0,0,"['mobilization:ehtejaj', 'threat:tor']"
+TW552ced494b,0,0,0,0,1,0,['mobilization:ao']
+TWca9cb64141,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWbe1fd0c973,0,0,1,0,0,0,"['ig_outgroup:lifafa', 'ig_outgroup:ghulam']"
+TWe4b18b5eff,0,0,0,0,0,0,"['mobilization:uth', 'mobilization:ehtejaj']"
+TW8b961ab670,0,0,0,0,0,0,['mobilization:ao']
+TW4b78c45283,0,0,0,0,0,0,['threat:khatam']
+TW35ec027f2f,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:ao']"
+TWbc9a53fa9b,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:ao']"
+TW1238f35fc8,0,0,0,0,0,1,"['mobilization:call', 'threat:khatam']"
+TWb7b5256256,0,0,0,0,0,0,['threat:tor']
+TWbd594b4262,1,0,0,0,0,0,"['mobilization:uth', 'threat:tor']"
+TWa0e0db9a83,0,0,0,0,0,0,['grievance:haq']
+TWd4d8d426c6,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW91580115d0,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao', 'mobilization:aao']"
+TW334dbb3a6b,0,0,0,0,0,1,['threat:khatam']
+TW4caaaded3f,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:maar']"
+TWe6228834fc,0,0,1,0,0,0,"['grievance:zulm', 'threat:tor']"
+TWbadfddbd41,1,0,0,1,0,0,['glorification:shahadat']
+TW83e73d964c,0,0,0,0,1,0,['mobilization:ao']
+TW89d1bdccce,0,0,0,0,0,0,['mobilization:nikal']
+TWf646fae64d,0,0,0,0,0,0,['grievance:haq']
+TWaafd5e983e,0,0,0,0,0,0,['grievance:haq']
+TWed9f3d430a,0,0,0,0,1,0,['mobilization:niklo']
+TW54ddc39a67,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TWdc60762089,0,0,0,0,0,0,"['ig_outgroup:ghaddar', 'threat:tor']"
+TWd1e9256e4a,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWf936b581af,0,0,0,0,0,0,['threat:khoon']
+TW52d273ae06,0,0,0,0,0,0,['threat:khoon']
+TW29c6557384,0,0,0,0,0,0,['grievance:haq']
+TWb7215c900e,0,0,0,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TW3973f65929,0,0,0,0,0,0,['mobilization:ao']
+TW3add7576dd,1,0,0,0,0,0,['mobilization:uth']
+TWcb2bceaa1a,0,0,1,0,0,0,['threat:khatam']
+TW25af4563e9,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW510076c8a9,0,0,1,0,0,0,['grievance:zulm']
+TWbb9b13078d,0,0,1,0,0,1,['threat:khoon']
+TW017a36a5ff,0,0,0,0,1,0,['mobilization:uth']
+TW29d9f28ce0,0,0,0,0,0,0,['mobilization:uth']
+TW4787062398,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW2804d801b7,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW661acdd9b5,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:call', 'mobilization:march']"
+TWb30cbaa1cc,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TW086a09c879,1,0,0,0,0,0,['threat:tor']
+TW475455ad8c,0,0,0,0,0,0,['mobilization:protest']
+TWc39bfc1e31,0,0,0,0,0,0,['threat:khatam']
+TWdcdb8f00b2,0,0,0,0,0,0,['threat:maar']
+TWfbc37041c1,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW32515735db,0,0,0,0,0,0,['grievance:haq']
+TW90581ff18a,0,0,0,0,0,0,['grievance:haq']
+TW446f39ddaa,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TW960b06983b,0,0,0,1,0,0,"['grievance:haq', 'glorification:shaheed', 'threat:khoon']"
+TW5932e18565,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW9f67390c61,0,0,0,0,0,0,['mobilization:nikal']
+TW5b56c4f360,0,0,0,0,0,0,['mobilization:uth']
+TW253b2dcefe,0,0,0,0,0,0,"['mobilization:ao', 'threat:tor']"
+TW6b9b086f45,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TWde64f7aea2,0,0,0,0,0,0,['grievance:haq']
+TWad438e6e0a,0,0,0,0,1,0,['threat:tor']
+TWd967d360ea,0,0,0,0,0,0,['grievance:haq']
+TWa1dedde08c,0,0,0,0,1,0,['mobilization:protest']
+TWb4b1aabeeb,0,0,0,0,0,0,['mobilization:call']
+TWf58524df79,0,0,0,0,0,0,['mobilization:ao']
+TW6023055301,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW031a02fcca,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:khatam']"
+TW682ece7ae1,0,0,0,0,1,0,['mobilization:uth']
+TW1496323724,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWd0ffd46b49,0,0,1,0,0,0,"['mobilization:nikal', 'mobilization:march']"
+TW6daf595eb9,0,0,1,0,0,0,['grievance:zulm']
+TWd91fb20b39,0,0,0,0,1,0,['threat:khatam']
+TW55f2814819,0,0,1,0,0,0,['grievance:mazloom']
+TWf758605cc6,1,0,0,0,0,1,"['mobilization:call', 'threat:khatam']"
+TW0a70d8d191,0,0,0,0,0,0,['mobilization:tayyar']
+TW1a2c9d7b7c,0,0,0,0,0,0,['mobilization:uth']
+TW7ae6ea71a4,0,0,0,0,0,0,['mobilization:ao']
+TWc08ea0d731,1,0,0,1,0,0,['glorification:shaheed']
+TW99b9e528f5,0,0,0,0,0,0,['mobilization:uth']
+TW4179d2f9c5,0,0,0,0,0,0,['threat:tor']
+TW9e2f93e39e,0,0,0,0,0,0,"['glorification:jihad', 'mobilization:ao']"
+TW3b6238bd63,0,0,0,0,0,0,['grievance:haq']
+TWd7a4341051,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWe62d08bb73,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWdd88420f66,0,0,0,0,0,0,['mobilization:ao']
+TWa94e29933a,0,0,0,0,0,0,['mobilization:uth']
+TWf793dd5075,0,0,0,0,0,0,['threat:tor']
+TW0754a00379,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao']"
+TW7954838851,0,0,0,0,0,0,['glorification:mujahid']
+TW41244186d0,0,0,0,0,0,0,['grievance:haq']
+TW747565cdb6,0,0,0,0,0,0,['threat:khatam']
+TWa1fcb750fe,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao']"
+TWc0adb53b8c,0,0,0,0,0,0,"['threat:khatam', 'threat:tor']"
+TWc0b6a3d605,0,0,0,0,0,0,['threat:khatam']
+TWc29aa03349,1,0,0,0,0,0,['ig_outgroup:patwari']
+TW6c4e23e0c3,0,0,1,0,1,0,['mobilization:uth']
+TWa27d06aa39,1,0,1,0,0,1,['glorification:shahadat']
+TW4f96c315ea,0,0,0,0,1,0,['mobilization:uth']
+TWa55f9deb1d,1,0,0,0,0,0,['ig_outgroup:ghaddar']
+TW4f64b5962e,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWaaf54aecb2,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:call']"
+TW6a088c3b9b,0,0,0,0,0,0,['threat:tor']
+TWa167456d76,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest', 'threat:khoon']"
+TW0dca41b031,0,0,0,0,0,0,['threat:khatam']
+TW32e2b20ad5,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal', 'mobilization:ao']"
+TW029f0e635a,0,0,0,0,0,0,['threat:khatam']
+TW0c7349f082,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW023f4f4d11,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW3f15755e40,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth', 'mobilization:dharna']"
+TWc8c637665f,0,0,0,0,0,0,['threat:tor']
+TW8053938ae7,0,0,0,0,0,0,['mobilization:uth']
+TW2b8839d9f2,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWe516cc28c6,0,0,0,0,0,0,['grievance:haq']
+TW7a1c4e23d9,0,0,0,1,0,1,['glorification:shaheed']
+TWb836ca2752,0,0,0,0,1,0,['mobilization:protest']
+TW42a3fb0e3b,0,0,0,0,0,0,['mobilization:nikal']
+TWb8755bd96c,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW2caa645da1,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:call']"
+TW5473c3b618,0,0,0,0,0,0,['threat:tor']
+TW160d28c826,0,0,0,0,0,0,['threat:khatam']
+TWae1765ba22,0,0,0,0,0,0,['threat:tor']
+TW775e360ce8,0,0,0,0,0,0,['mobilization:protest']
+TW8e7b562c2d,0,0,0,0,0,0,['mobilization:protest']
+TW53dbceab19,0,0,0,0,0,0,['mobilization:call']
+TW1b6793903c,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'grievance:zulm', 'threat:tor']"
+TWa6414035f0,1,0,0,0,0,0,['mobilization:march']
+TWe69f8b7555,0,0,0,0,0,0,['threat:khatam']
+TW6e913c3f0f,0,0,0,0,0,0,['grievance:haq']
+TW4d2ace35e3,0,0,0,0,0,0,['threat:tor']
+TW5ab09618d1,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW5c11e96ce5,1,0,0,0,0,1,['threat:khatam']
+TW43dcc91cec,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:tayyar']"
+TW38986a53b7,0,0,0,0,0,0,['threat:tor']
+TWe6d4f79e09,0,0,0,0,0,0,['threat:maar']
+TW6cda217fc9,0,0,0,0,0,0,['mobilization:uth']
+TW9a669564f7,1,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TW7d1625a782,0,0,0,0,0,1,['threat:tor']
+TWbbedd209cf,0,0,0,0,0,0,['grievance:haq']
+TW7b146cff2b,0,0,0,0,0,0,['threat:tor']
+TW247681e97e,0,0,0,0,0,0,['mobilization:ao']
+TW85c2665965,0,1,0,0,0,0,['dehumanization:kutta']
+TWe4b52c8d60,0,0,0,0,0,0,['mobilization:ao']
+TW39fa3d18d6,0,0,0,0,0,0,['mobilization:uth']
+TW5e14fdb473,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TWa88acf1d9c,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:ao']"
+TWd185c13bd6,0,0,0,0,1,0,"['grievance:haq', 'mobilization:niklo', 'mobilization:nikal', 'mobilization:call']"
+TW6ee600123b,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW823edea0cd,0,0,1,0,0,1,"['grievance:mehroom', 'threat:khatam']"
+TW1002e17e95,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWd9a52f0bf2,0,0,0,0,1,0,['mobilization:ao']
+TW982267fced,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWace754d0f6,0,0,0,0,0,0,['mobilization:call']
+TWa0043feff8,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'threat:badla', 'threat:tor']"
+TW1a8a6b23d4,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:aao']"
+TWf08dd9d0a0,0,0,0,0,0,0,"['grievance:haq', 'threat:khatam']"
+TWf093b2bf74,0,0,0,0,0,0,['threat:tor']
+TW6161a42d20,0,0,0,0,0,0,['threat:khatam']
+TWbd409901c9,1,0,0,1,0,0,['glorification:shaheed']
+TW2aa7c2b626,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TWfb8bd4ab51,0,0,1,0,0,0,"['grievance:zulm', 'threat:khatam']"
+TW4a99c50508,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:ao']"
+TWce20e9e9a8,0,0,0,0,0,0,['grievance:haq']
+TW5a879bc42e,0,0,0,0,0,0,['mobilization:nikal']
+TW1b76cb2b33,0,0,0,0,0,0,"['mobilization:ao', 'threat:khoon']"
+TW5192de5916,0,0,0,0,0,0,['mobilization:ao']
+TW125723decd,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWf6f27df969,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW9e8b486633,0,0,0,0,0,0,['grievance:haq']
+TWa5e6fc6b85,0,0,1,0,0,0,['grievance:zulm']
+TW1f7069f52b,0,0,0,0,0,0,['mobilization:uth']
+TW7cf13fded7,0,0,0,0,0,0,['threat:khatam']
+TW782fe3f21e,0,0,0,0,1,0,['mobilization:ao']
+TW4f1d744e2d,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TWfd6ebe68e8,0,0,0,0,0,0,['threat:tor']
+TWfc1be2a985,0,0,0,0,1,0,['mobilization:ao']
+TW7bdb4af9aa,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TWb3bdd86e3c,0,0,0,0,0,0,['threat:khatam']
+TWf316af5d92,0,0,0,0,0,0,['threat:khatam']
+TW2ffd33749b,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW496e2372b1,0,0,0,0,0,0,['mobilization:uth']
+TW8bae575383,0,0,0,0,0,0,"['grievance:mehroom', 'mobilization:nikal', 'mobilization:ao']"
+TWfda154b0ba,0,0,0,0,0,0,['grievance:haq']
+TWcb87c029b4,0,0,0,0,0,0,['mobilization:ao']
+TW1f22a7973c,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWb5f6f2ef5c,0,0,0,0,0,0,['threat:khoon']
+TWa182b65332,0,0,0,0,0,0,['grievance:haq']
+TWddf6b09df1,0,0,0,0,1,0,['mobilization:niklo']
+TW1250a30f27,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW136de2de97,0,0,0,0,0,0,['threat:khoon']
+TWb307369603,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWbd1cf96f07,1,0,0,0,1,0,['mobilization:protest']
+TW26493733ff,0,0,0,0,0,0,['grievance:haq']
+TWf31a8c84f9,0,0,0,1,0,0,['glorification:shaheed']
+TW72f83c1fdd,0,0,1,0,0,0,"['grievance:zulm', 'grievance:nainsafi']"
+TW9ddac7c7d0,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW626ea5f5be,1,0,1,0,0,1,"['ig_outgroup:ghulam', 'mobilization:ao']"
+TWe6827f4840,0,0,0,0,1,0,['mobilization:protest']
+TWc3256edf14,0,0,0,0,0,0,['threat:tor']
+TWa81397de3d,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWa847b316b9,0,0,1,0,0,0,['mobilization:nikal']
+TWd105cfa6bb,0,0,0,0,0,0,['grievance:haq']
+TWf940604e02,0,0,0,0,0,0,['threat:tor']
+TWf477ff1c25,0,0,0,0,0,0,['threat:khatam']
+TW1874f34a2d,0,0,0,0,0,0,['threat:intiqam']
+TW1f5fb2ea69,0,0,0,0,1,0,['mobilization:ao']
+TW053bb39ec2,1,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TW9c8a59d763,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao', 'mobilization:aao']"
+TW3c22e6bf11,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TWc6afc523aa,0,0,0,0,0,1,['mobilization:protest']
+TW31b3b3f6f1,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TW500b2ae639,0,0,1,0,0,1,"['grievance:zulm', 'mobilization:ao']"
+TW538389a552,0,0,0,1,0,0,['glorification:shaheed']
+TW90ecc1d98f,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW51210c0a57,0,0,0,0,1,0,['threat:tor']
+TW464317b128,0,0,0,0,0,0,"['grievance:haq', 'threat:maar']"
+TWb199eaa1df,0,0,0,0,0,0,"['mobilization:ao', 'threat:intiqam']"
+TW2a7156958b,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:khoon']"
+TWef800fd10a,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq', 'mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW4a5cb28899,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:tayyar']"
+TWa0faccb55c,0,0,0,0,0,0,['mobilization:uth']
+TWabe72f4e6e,0,0,0,0,0,0,['grievance:haq']
+TW576ed04133,0,0,1,0,0,0,['grievance:zulm']
+TWaf617d44e3,0,0,0,0,0,0,['mobilization:ao']
+TW949b2a7d78,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TW2e377c7da9,0,0,0,0,0,0,['threat:intiqam']
+TW2f0a9232da,0,0,0,0,0,0,['mobilization:nikal']
+TW150eabe311,0,0,0,0,0,0,['threat:intiqam']
+TWb4064334ef,0,0,0,0,0,0,['threat:tor']
+TWcbbde9bdd4,0,0,0,0,0,0,"['mobilization:call', 'threat:tor']"
+TWd1f1fa8b0c,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TW5b1a3b9f50,0,0,0,0,0,0,['grievance:haq']
+TWb759bd2107,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW0520b649c1,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TW5ff88d9ab5,0,0,0,1,0,0,['glorification:ghazi']
+TW6375e4efba,0,0,0,0,0,0,['grievance:haq']
+TW6e9675c27f,0,0,0,0,0,0,['grievance:haq']
+TW7bb62209f2,0,0,0,0,0,0,['grievance:haq']
+TW63311e61af,0,0,0,0,0,0,['mobilization:ao']
+TW68e8d1d1b3,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW395446321b,1,0,0,0,0,0,['threat:tor']
+TW446d6e61e8,0,0,0,0,0,0,['grievance:haq']
+TW10c79893ed,1,0,1,0,0,0,"['grievance:zulm', 'mobilization:tayyar']"
+TW278f30f85c,0,0,0,0,0,0,"['mobilization:call', 'mobilization:ehtejaj']"
+TW4f96e19152,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth', 'mobilization:march']"
+TWdb18794a2a,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:ehtejaj']"
+TW38d3f558a2,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:nikal']"
+TWbcc813190d,0,0,0,0,0,0,['mobilization:tayyar']
+TWcefff3f7c8,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:march', 'mobilization:protest']"
+TWaf14993de1,0,0,0,0,0,0,['mobilization:ao']
+TW1f50874886,0,0,0,1,0,1,"['glorification:shaheed', 'threat:tor', 'threat:khoon']"
+TW979cf93f50,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWdac29ab83d,0,0,0,0,0,0,['threat:khatam']
+TWf6492e147e,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWd68537eda3,0,0,0,0,0,0,['mobilization:protest']
+TW74a09462bd,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW3b88315959,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TW1330d1fc7a,0,0,0,0,0,0,['mobilization:nikal']
+TW38c286aab4,1,0,0,0,0,0,"['ig_outgroup:dushman', 'mobilization:nikal']"
+TW50c97d149c,0,0,0,0,0,1,"['grievance:haq', 'mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW854bc19d1a,0,0,0,0,0,0,['threat:tor']
+TW8ea9bb68c3,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWce14973d0e,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW4e1cc2eb01,0,0,0,0,0,1,['threat:khatam']
+TW143cc3b2db,1,0,1,0,0,0,['grievance:zulm']
+TWacd3782953,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TWfed158a932,0,0,0,0,0,0,['threat:intiqam']
+TW9a1332131f,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:tayyar']"
+TWe309b82f98,0,0,0,0,1,0,['mobilization:uth']
+TW481742f4f9,1,0,1,0,0,0,['grievance:zulm']
+TW6acd87d6c0,0,0,0,0,1,0,['threat:intiqam']
+TWd9b0bb6d30,0,1,0,1,1,0,"['dehumanization:kutta', 'dehumanization:suar', 'glorification:qurbani', 'mobilization:ao', 'mobilization:aao']"
+TWb05a2b174e,0,0,0,0,0,0,['threat:tor']
+TW4412ef71dd,0,0,1,0,0,0,"['grievance:zulm', 'threat:anjaam']"
+TW51fbd6414c,0,0,0,0,0,0,['mobilization:protest']
+TWd5fe5fc36a,0,0,0,0,0,0,['mobilization:uth']
+TWf1c232908a,0,0,0,0,1,0,['mobilization:ao']
+TWcda313a384,0,0,0,0,0,0,"['mobilization:ao', 'threat:intiqam']"
+TWb7fb54b61c,1,0,0,0,0,0,"['ig_outgroup:traitor', 'threat:tor']"
+TWad1e7b66f3,0,0,0,0,1,0,['threat:khoon']
+TW9851456582,0,0,0,0,0,0,['threat:intiqam']
+TW735cb90360,0,0,1,0,0,0,['grievance:zulm']
+TW87a71e6d10,0,0,0,0,0,0,['threat:tor']
+TWdd4d3eaea2,0,0,0,0,0,0,['mobilization:ao']
+TWa660c52b42,0,0,0,0,1,0,['mobilization:ao']
+TWee0ae280de,0,0,0,1,0,0,['glorification:shaheed']
+TWeac652b9a0,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:tayyar']"
+TW8dc3e68265,0,0,0,0,1,0,['mobilization:ao']
+TW259082b0fc,0,0,0,0,0,0,['grievance:haq']
+TW1b2c95c58f,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW80acc98ac3,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW805daff5cb,0,0,0,0,0,0,['threat:khatam']
+TWd273cae2fb,0,0,0,0,0,0,['dehumanization:suar']
+TW869162bfea,0,0,0,0,0,0,"['ig_outgroup:namak haram', 'mobilization:call']"
+TWfd8f347909,0,0,0,0,0,0,['threat:tor']
+TWc9f3b4f0bb,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TW0f3563a28d,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW069eab3dbb,0,0,0,0,1,0,['mobilization:ao']
+TW7e29ce7aa5,0,0,0,0,1,0,['mobilization:uth']
+TW9cbd7c0c4c,0,0,0,0,0,0,"['mobilization:protest', 'threat:khoon']"
+TW98d49e59aa,0,0,0,0,0,0,"['ig_outgroup:ghaddar', 'grievance:haq']"
+TWb747c750a7,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'threat:maar']"
+TW020731aa4d,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW6e197193e3,0,0,0,0,0,0,['mobilization:uth']
+TW8e39a5e71f,0,0,0,0,0,1,"['mobilization:ao', 'threat:khatam']"
+TW71a25f3b06,0,0,0,0,0,1,['threat:khatam']
+TW30bf2cbfdb,0,0,0,0,0,0,['mobilization:nikal']
+TWba0afe6861,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW08131d274a,0,0,0,0,0,1,['mobilization:march']
+TWe132782849,0,0,1,0,0,0,"['grievance:zulm', 'glorification:mujahid', 'threat:tor']"
+TW441416fc5a,0,0,0,0,0,0,['mobilization:ao']
+TWe8380e74b1,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWa30cda0e77,1,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TW65feee454c,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW3d731d0a8f,0,0,0,0,0,0,['threat:khatam']
+TW1395a1a0f2,0,0,0,0,1,0,['mobilization:niklo']
+TW7cfa8c5026,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TWd801069dff,1,0,1,0,0,1,"['ig_outgroup:dushman', 'grievance:sitam', 'threat:khatam']"
+TWda8f175897,0,0,0,0,0,0,['threat:khatam']
+TW18cc28916b,0,0,0,0,0,0,['mobilization:uth']
+TW869592d59d,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:call']"
+TWcc2f446865,0,0,0,0,0,0,['mobilization:ao']
+TW983767743c,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWc37d1b8ad4,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWad121b453b,0,0,0,0,0,0,['mobilization:ao']
+TW76a9ef781b,0,0,0,1,0,0,['grievance:haq']
+TW5114f8155b,0,0,0,0,0,0,['mobilization:nikal']
+TWe844a9c319,0,0,0,0,0,0,"['grievance:haq', 'grievance:mehroom']"
+TW94c053040f,0,0,0,0,0,0,['grievance:haq']
+TWa876357d82,0,0,0,0,0,0,['threat:khoon']
+TWb3d2b8d488,1,0,0,0,0,0,['mobilization:ehtejaj']
+TW42621b0d46,0,0,0,0,0,0,['threat:maar']
+TWb21f402bf1,0,0,0,1,0,1,['glorification:shaheed']
+TW33206ef9f6,0,0,0,0,0,0,['threat:tor']
+TWc53be2f37b,0,0,0,0,0,0,"['ig_outgroup:gaddar', 'ig_outgroup:patwari', 'ig_outgroup:bhikari']"
+TW7071083114,0,0,0,0,0,0,['mobilization:uth']
+TW0c0ac2a1f5,0,0,0,0,0,0,['threat:intiqam']
+TW02dcb612dc,0,0,0,1,0,0,"['glorification:qurbani', 'mobilization:ao']"
+TW13972b77a3,0,0,0,0,1,0,['mobilization:uth']
+TWf636b85fdc,0,0,1,0,0,0,['grievance:haq']
+TW10b878d8fc,0,0,0,0,0,0,['grievance:haq']
+TWaffbee5668,0,0,0,0,0,0,['mobilization:ao']
+TWb8fcf4ece3,0,0,0,0,0,0,['threat:maar']
+TW836870ecc7,0,0,0,0,0,0,"['mobilization:ao', 'threat:intiqam', 'threat:khoon']"
+TWc03c82889a,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:uth']"
+TWc72547817e,0,0,0,0,1,0,['mobilization:ao']
+TWce0d21e8fd,0,0,0,0,0,0,['threat:khoon']
+TW8564070378,1,0,1,0,0,0,"['grievance:haq', 'mobilization:ehtejaj']"
+TWc9ffd7feed,0,0,0,0,0,0,['threat:khatam']
+TW32ef2c9b23,0,0,0,0,0,0,['dehumanization:janwar']
+TW98e61d497f,0,0,0,0,0,0,['mobilization:ao']
+TWc7547a4119,0,0,0,0,0,0,['threat:khatam']
+TWbc3175a0ae,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW62a85f77f1,0,0,0,0,0,0,['grievance:haq']
+TW1fc3999255,0,0,1,0,0,0,['grievance:zulm']
+TW37971ff86f,0,0,1,0,1,0,"['ig_outgroup:ghulam', 'mobilization:niklo']"
+TWc382265ed6,0,0,0,0,0,0,['mobilization:march']
+TW5ea8538fd8,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:khatam']"
+TWfae053214a,0,0,0,0,0,0,['grievance:haq']
+TWca99389f30,0,0,0,0,0,0,['mobilization:uth']
+TW7cb9dbbd64,1,0,1,0,0,0,['threat:badla']
+TW0361496b08,0,0,0,0,0,1,['mobilization:ao']
+TWcadc4973b9,0,0,0,0,0,1,"['threat:tor', 'threat:khoon']"
+TW60e253c792,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TWd536cf89c5,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest', 'threat:khoon']"
+TW598ae2e50c,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW8c9800def1,0,0,0,1,0,0,"['glorification:shaheed', 'threat:khoon']"
+TWfb76556db7,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TWb82781425f,0,0,0,0,0,0,['mobilization:nikal']
+TW82b3f2a630,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWe8af0595f9,0,0,0,0,0,0,['threat:tor']
+TW55ad9e8814,0,0,0,0,0,0,['mobilization:ao']
+TWff2c3dcaca,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW7bd05b7df0,0,0,0,1,0,0,['glorification:qurbani']
+TW2612a5f059,0,0,0,0,0,0,['threat:tor']
+TW4a9e6e7a3b,0,0,0,0,0,0,['threat:tor']
+TW4b8ce6fae4,0,0,0,0,0,0,['mobilization:uth']
+TWf4786b605b,0,0,0,0,1,0,['mobilization:uth']
+TW427ef59785,0,0,0,0,1,0,['mobilization:uth']
+TW20f96acd48,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW15917cb1a4,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW66f650d833,0,0,0,0,0,0,['threat:khatam']
+TW65407e2f31,1,0,0,1,0,0,['glorification:shaheed']
+TW339a4520f5,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWc0a9c587a8,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW5ae11ea0df,0,0,0,0,1,0,['mobilization:ao']
+TWaf98726a4a,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWd9601fcf66,0,0,0,0,0,0,['threat:khoon']
+TW15182db1e1,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW01fb507fd2,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWf24fddfa34,0,0,0,0,0,0,"['ig_outgroup:gaddar', 'threat:tor']"
+TW8890c13322,1,0,0,0,0,0,['threat:tor']
+TW8a8cb92823,0,0,0,0,1,0,['mobilization:ao']
+TW5639482a9d,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal', 'mobilization:ao']"
+TWf2aeb7fa33,1,0,0,0,1,0,['mobilization:ao']
+TWd81ea84902,0,0,0,0,0,0,"['mobilization:uth', 'threat:maar']"
+TWf259b94706,0,0,0,0,0,0,['grievance:haq']
+TW385f1cf301,0,0,0,0,0,0,['threat:khatam']
+TW8a33f578f8,0,0,0,0,0,0,['threat:khatam']
+TWf6748624e6,1,0,0,0,0,0,['mobilization:nikal']
+TW7eb12395b7,0,0,0,0,0,0,['grievance:haq']
+TW89c26de87f,0,0,0,0,0,0,['grievance:haq']
+TW607e06b1e7,0,0,0,0,1,0,['mobilization:ao']
+TW04a4304f1f,0,0,0,0,0,0,['grievance:haq']
+TW1b29aa4c93,1,0,1,0,0,0,['grievance:mehroom']
+TW2c8ae404a8,1,0,0,0,0,0,['mobilization:ao']
+TWb37321c7c8,1,0,0,0,0,1,"['threat:khatam', 'threat:intiqam']"
+TW122fb55c50,0,0,1,0,0,0,['grievance:zulm']
+TWbb5cec2e0c,0,0,0,0,0,0,['grievance:haq']
+TW3c7fdec2d4,1,0,0,0,0,0,['grievance:haq']
+TW2b18b78917,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TWdb21718b82,0,0,0,0,0,0,['grievance:haq']
+TW40c418e21f,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW32a74ce2bb,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWc7d4109bff,0,0,0,0,0,0,['mobilization:uth']
+TW294b2a86b7,0,0,0,0,0,0,['threat:khatam']
+TWae9d12da42,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWe6834e9768,0,0,0,0,0,0,"['grievance:haq', 'mobilization:uth']"
+TWb33221ba70,0,0,0,0,0,0,['threat:tor']
+TW9084b75bd9,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:call']"
+TWe12f4e275d,0,0,1,0,0,0,['grievance:haq']
+TWb200208205,0,0,1,0,0,0,"['grievance:mazloom', 'grievance:haq', 'mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW5668e46182,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'threat:khatam']"
+TWa7d37efaf2,1,0,1,0,0,0,"['grievance:zulm', 'mobilization:ao', 'mobilization:aao', 'threat:intiqam']"
+TW8664835d54,0,0,0,0,0,0,['mobilization:ao']
+TW81cbaf57fb,0,0,1,0,0,1,['threat:khoon']
+TW61a57a9c29,0,0,0,0,0,0,['threat:khoon']
+TWc11f208df7,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW9124f265fe,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWf489904608,0,0,1,0,0,0,"['grievance:haq', 'mobilization:nikal', 'mobilization:ehtejaj']"
+TW68733cfb14,0,0,0,1,0,0,['glorification:ghazi']
+TWead30e5d98,0,0,0,0,1,0,['mobilization:niklo']
+TWef3157f4b2,0,0,0,0,0,0,['grievance:faryaad']
+TWdd04cde5a0,0,0,1,0,0,0,"['ig_outgroup:patwari', 'ig_outgroup:ghulam', 'mobilization:nikal']"
+TW8371233f48,0,0,0,0,0,0,['mobilization:ao']
+TW36b711432e,0,0,0,0,0,0,['grievance:haq']
+TWf082a6006b,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW32a0f30b09,0,0,0,0,0,0,['mobilization:ao']
+TWab40fda7b7,0,0,0,1,0,0,['glorification:ghazi']
+TW55c57f655b,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW215c7c25bb,0,0,0,0,0,0,"['mobilization:ao', 'threat:khoon']"
+TW22a7c25e0b,0,0,0,0,0,0,['mobilization:uth']
+TW84c1c19bb2,0,0,0,0,0,0,['mobilization:nikal']
+TWcb053b6116,0,0,0,0,0,0,['mobilization:nikal']
+TW2e765135ce,0,0,1,0,0,0,"['ig_outgroup:gaddar', 'ig_outgroup:ghulam']"
+TW29eac53586,0,0,0,0,0,0,['mobilization:ao']
+TW8324e4c86a,0,0,0,0,0,0,['mobilization:uth']
+TWf4dda78d5c,0,0,0,0,0,0,['grievance:haq']
+TW354e8304d1,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TW5ce93d3486,0,0,0,0,0,0,['threat:tor']
+TWceaa7ca152,0,0,0,0,0,0,"['dehumanization:suar', 'threat:maar']"
+TW6ede6304c5,0,0,0,1,0,0,['glorification:shahadat']
+TWf0988d02e1,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWb8d4fe8731,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW5ecadb5144,0,0,0,0,0,0,['mobilization:uth']
+TW82d77e72af,1,0,0,0,0,0,['threat:tor']
+TW31d04a4962,0,0,0,1,0,0,"['grievance:haq', 'glorification:qurbani', 'mobilization:ao', 'mobilization:aao']"
+TW276c389d5e,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW5a59d46dd3,0,0,0,0,0,0,['mobilization:protest']
+TW4e933d39b6,0,0,1,0,0,0,['threat:khatam']
+TWf8160359da,0,0,0,0,0,0,['mobilization:nikal']
+TW521aa600d4,0,0,0,0,0,0,"['mobilization:uth', 'threat:khatam']"
+TW3c78a2ac34,0,0,0,0,0,0,['mobilization:nikal']
+TWafcf6156cb,0,0,0,0,1,0,['mobilization:ao']
+TW788cc059fe,0,0,1,0,0,1,['threat:khoon']
+TWff8e4c330f,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:uth']"
+TW9912845f1c,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:nikal', 'mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TWc9a40ddce4,0,0,0,0,1,0,"['grievance:haq', 'mobilization:niklo']"
+TW48cf6b2123,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TW691b203558,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWf9973e689e,0,1,0,0,0,0,['dehumanization:kutta']
+TW4da40597ea,0,0,0,0,0,0,['mobilization:band karo']
+TW5dee6ea4a0,0,0,0,0,0,0,['threat:tor']
+TWbd91dfa895,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWe3e7de0904,0,0,0,0,0,0,['mobilization:nikal']
+TW3df6e954df,0,0,1,0,0,0,"['grievance:zulm', 'threat:tor']"
+TWe5b6b414ef,0,0,0,0,0,0,['threat:khatam']
+TW858975ed86,0,0,0,0,0,0,['mobilization:nikal']
+TW8d846de772,0,0,0,0,0,0,['threat:tor']
+TW647858cadc,0,0,0,1,0,0,['glorification:qurbani']
+TW62ff5931e5,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW3c1a179e54,0,0,0,0,0,0,"['mobilization:tayyar', 'threat:tor']"
+TWb316461df2,0,0,0,0,0,0,"['mobilization:uth', 'threat:tor']"
+TW45bf32a36a,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TW06e014cb97,0,0,0,0,0,0,['threat:khatam']
+TWc3fe883673,0,0,0,0,0,0,['threat:khatam']
+TWba958b8244,0,0,0,0,0,0,"['grievance:haq', 'mobilization:march', 'threat:badla']"
+TW9214df88dc,1,0,0,0,0,0,"['ig_outgroup:dushman', 'ig_outgroup:patwari']"
+TW177aaf0b68,0,0,0,0,0,1,['threat:khatam']
+TWb97b4ce721,0,0,0,0,0,0,['threat:khoon']
+TW57bfe31fa0,0,0,0,0,0,0,['grievance:haq']
+TW8524ade493,0,0,0,0,0,1,['threat:tor']
+TWd4afef1384,0,0,0,0,0,0,['mobilization:tayyar']
+TWa7deef50ad,0,0,0,0,0,0,['grievance:haq']
+TW71d280e870,0,0,0,0,0,0,['mobilization:ao']
+TW2dca7cd8c6,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:uth', 'threat:tor']"
+TWd49aa1f980,0,0,0,0,1,0,['mobilization:ao']
+TW955c567bf1,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW22f330efbc,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWfc0c89a9af,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWd462b531c2,0,0,0,0,0,0,['threat:khatam']
+TW574f256e5a,0,0,0,0,0,0,"['grievance:haq', 'mobilization:uth']"
+TW56472419e1,0,0,1,0,0,0,"['grievance:zulm', 'threat:intiqam']"
+TWce05782057,0,0,0,0,0,0,['grievance:haq']
+TW6a6a1d3074,0,0,0,0,0,0,['mobilization:ao']
+TWe150f2c779,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWcfbf35e1c7,0,0,0,0,0,0,"['grievance:haq', 'mobilization:march', 'threat:badla', 'threat:khoon']"
+TW32d6e5f3c7,1,0,0,1,0,0,['glorification:shaheed']
+TW939906db05,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW1713f51453,0,0,0,0,0,0,['mobilization:ao']
+TW11da0e8234,0,0,0,0,1,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWe7944748e4,0,0,0,0,0,0,"['threat:badla', 'threat:tor']"
+TW575511741d,0,0,0,0,0,0,['mobilization:nikal']
+TWd440213477,0,0,0,0,0,0,['grievance:haq']
+TW7ae3919c2e,0,0,0,1,0,0,['glorification:qurbani']
+TWff4d00ca05,0,0,0,0,0,0,['grievance:haq']
+TW85f4c4edc1,0,0,0,0,0,0,['mobilization:call']
+TW1521438803,0,0,0,0,0,0,"['mobilization:uth', 'threat:tor']"
+TW359595d285,0,0,0,0,1,0,['mobilization:protest']
+TW51854410f5,0,0,1,0,0,0,['threat:tor']
+TWb3f8f05800,1,0,0,0,0,0,['threat:tor']
+TWe6d059a2d1,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ehtejaj']"
+TWfa5da4cfe5,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:ao']"
+TWd21c38f05f,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWf71c9e74a1,0,0,0,0,0,0,['threat:tor']
+TW7ca5c41b71,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWf66a55026e,0,0,0,0,0,0,['mobilization:ao']
+TW95cc89a24c,0,0,0,0,1,0,['mobilization:ao']
+TWde857b6542,0,0,0,0,1,0,['mobilization:ao']
+TW7baba87a3b,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW9ad21af86d,0,0,0,0,0,0,['mobilization:ao']
+TW81834d2b91,0,0,0,0,0,0,['threat:tor']
+TW5e07b02321,0,0,0,1,0,0,"['glorification:ghazi', 'mobilization:ehtejaj']"
+TW1673484eb8,0,0,0,0,0,0,['grievance:haq']
+TW693f4bc9f5,0,0,0,0,0,0,['mobilization:call']
+TW4e1b140cda,0,0,0,0,0,0,['threat:tor']
+TWe509b540bb,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWb2c358dccb,0,0,0,0,0,0,['grievance:haq']
+TWc240d34f8d,0,0,0,0,0,0,['threat:khoon']
+TW54e3df50a8,0,0,0,0,1,0,['mobilization:uth']
+TW59aba1b8be,0,0,0,0,0,0,['grievance:haq']
+TWec8fa418a0,0,0,0,0,0,0,"['mobilization:uth', 'mobilization:march', 'threat:tor']"
+TW5d65545909,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW1a825685d4,0,0,0,0,0,0,['grievance:haq']
+TWfcd2207c41,0,0,0,0,0,0,['threat:khatam']
+TWa85deced66,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWe3249cb39c,0,0,0,0,0,0,['threat:khatam']
+TW927c8f43cd,0,0,0,0,0,0,['threat:khatam']
+TWbe93300d67,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW0093c57792,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW054ae9d844,0,0,0,0,0,0,"['mobilization:march', 'threat:tor']"
+TW52b843d1b6,0,0,0,0,0,0,['threat:tor']
+TWe8e5fa89d9,0,0,1,0,0,0,['grievance:zulm']
+TW3b449393b8,0,0,0,0,0,0,['threat:khatam']
+TW94b221698c,0,0,0,0,0,0,['mobilization:ao']
+TWd520334ad5,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:ao', 'threat:intiqam']"
+TW10fbcfa3ab,0,0,1,0,0,0,['grievance:na insafi']
+TWcaffb550bb,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao', 'mobilization:aao', 'threat:khatam']"
+TWb3b3fbd0ba,0,0,1,0,0,0,['grievance:zulm']
+TW950595b6fc,0,0,0,0,0,0,['mobilization:ao']
+TWe337f863c1,0,0,0,0,0,0,['grievance:haq']
+TW02bd62652a,0,0,0,0,0,0,"['grievance:haq', 'threat:khatam']"
+TWc090c7ce3b,0,0,0,0,0,0,['mobilization:ao']
+TWe253e82b0d,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW7d34d7cc81,1,0,1,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW8d147362d8,0,0,1,0,0,0,['grievance:zulm']
+TWcbda7094e8,0,0,0,0,0,0,['threat:khatam']
+TW40a0e5b38d,0,0,1,0,0,0,['grievance:zulm']
+TW30900cac71,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar', 'threat:khoon']"
+TWa5a8667ec0,0,0,1,0,0,0,"['grievance:zulm', 'grievance:haq']"
+TW5f75f43da9,0,0,0,0,0,0,['mobilization:ao']
+TW717188e13d,0,0,1,0,0,0,['grievance:zulm']
+TW4799b06409,0,0,0,0,0,0,['threat:khatam']
+TW45a613fed1,0,0,0,0,0,0,['mobilization:protest']
+TWdcea5b207b,0,0,1,0,0,0,['grievance:zulm']
+TWc3d7fbdab2,0,0,0,0,0,1,['threat:maar']
+TWbb6852476b,0,0,0,0,0,0,['mobilization:nikal']
+TWa5deef356a,0,0,1,0,0,0,['grievance:zulm']
+TWc74b170bd5,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWc6adf8126e,0,0,0,0,0,0,['threat:tor']
+TW13baa5b64f,0,0,0,0,0,0,['threat:khatam']
+TW39549b4872,0,0,0,0,0,0,['threat:khatam']
+TW4dbb36afd2,0,0,0,0,0,0,['grievance:haq']
+TW9b9b0c1809,1,0,0,0,0,0,['mobilization:ao']
+TWe62a6c8624,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:aao']"
+TW86045e4850,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWaf7f8779d3,0,0,0,0,1,0,['mobilization:protest']
+TW7e4df45976,0,0,0,0,0,0,['mobilization:call']
+TWaf69d801f0,0,0,0,0,0,0,['ig_outgroup:dushman']
+TW8f6f03855a,0,0,0,0,0,0,['mobilization:ao']
+TW62ba9a7f46,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW02770899fe,0,0,0,0,0,0,['grievance:haq']
+TW382dba83fc,0,0,0,0,0,0,['threat:intiqam']
+TW3aaa9db7b9,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW416c24027e,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWb89be17e87,0,0,0,0,0,0,['grievance:haq']
+TWd3f66676fb,0,0,0,0,0,0,['threat:tor']
+TW62dbb6cd9b,1,0,0,0,0,0,['mobilization:call']
+TW8dd9b30610,1,0,1,0,0,0,"['mobilization:uth', 'threat:tor']"
+TW6f31e0559d,0,0,0,0,1,0,['mobilization:uth']
+TW75734ebd49,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:call']"
+TW47849d954d,1,0,0,0,0,0,['threat:intiqam']
+TWde8b76ef0b,1,0,0,0,0,0,"['ig_outgroup:dushman', 'threat:intiqam']"
+TW5e7cf20dc1,1,0,0,0,0,0,"['ig_outgroup:dushman', 'glorification:ghazi']"
+TWad480e18fc,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWb2de3fd0a8,1,0,0,0,0,0,['mobilization:ao']
+TWbcff06af4e,0,0,0,1,0,0,"['grievance:haq', 'glorification:shaheed', 'glorification:qurbani']"
+TW9179b23c1e,0,0,0,0,0,0,['grievance:haq']
+TWc34220d575,0,0,0,0,0,0,['mobilization:ao']
+TWcd5cc79429,0,0,0,0,0,0,['grievance:haq']
+TWb8edc20166,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:khoon']"
+TWb64030a4cb,0,0,0,0,0,0,['threat:khatam']
+TWec31572297,0,0,0,0,0,0,"['grievance:haq', 'mobilization:uth']"
+TW41fe749a25,0,0,0,0,1,0,"['mobilization:ao', 'mobilization:protest']"
+TWc70bc273a2,0,0,0,0,0,0,['grievance:haq']
+TW9fe8dbdc8d,0,0,0,0,0,0,['mobilization:uth']
+TWb66f40605c,0,0,0,0,1,0,['mobilization:ao']
+TW8f4cca0991,0,0,0,0,1,0,['mobilization:ao']
+TW1998398a46,0,0,0,0,1,0,['mobilization:protest']
+TW1bc8ed2206,0,0,0,0,0,0,"['grievance:haq', 'threat:khatam']"
+TW41d7eca6cc,0,0,0,0,0,0,['threat:khatam']
+TWffa217a8bf,0,0,0,0,0,0,['mobilization:uth']
+TW20876a81d0,0,0,0,0,0,0,['mobilization:march']
+TWdad9c435e7,0,0,0,0,0,0,['grievance:haq']
+TW785e409341,1,0,1,0,0,0,"['ig_outgroup:ghaddar', 'grievance:sitam']"
+TW2d51a572de,0,0,0,0,0,0,['mobilization:protest']
+TWc6962f0771,0,0,0,0,0,0,['mobilization:nikal']
+TW6c8406aaf7,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWa0958fbf0d,0,0,1,0,0,1,['threat:khoon']
+TW7d1a2e4486,0,0,0,0,0,0,['mobilization:ao']
+TWfcd17bdfa6,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:khatam']"
+TW2d51f3ab80,0,0,0,0,0,0,['threat:khatam']
+TW1c7aadb2dc,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:tayyar']"
+TWf536c1482d,0,0,0,0,0,0,['ig_outgroup:ghulam']
+TWe7995ee296,0,0,0,0,0,0,['mobilization:nikal']
+TW7b0a9714a8,0,0,0,0,1,0,['mobilization:protest']
+TW32c40f676b,0,0,0,0,0,1,"['mobilization:uth', 'mobilization:tayyar']"
+TWe5e97731bb,0,0,0,0,0,0,['threat:khatam']
+TW21b16cb5bc,0,0,0,0,0,0,['grievance:haq']
+TW6c402ad8e5,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW9b21248246,0,0,0,0,1,0,['mobilization:ao']
+TW7881411dcf,0,0,0,0,0,0,['grievance:bebasi']
+TWcbfeab69ee,0,0,0,0,0,0,"['grievance:haq', 'threat:khoon']"
+TW8c1f4d94e0,0,0,0,0,0,0,['mobilization:tayyar']
+TW5c54694fc9,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:ehtejaj']"
+TW2307c89053,0,0,0,0,0,0,['glorification:shaheed']
+TW598ec60b27,0,0,0,0,0,0,['grievance:haq']
+TW7b4e05ee96,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWac271363d5,0,0,0,0,0,0,['threat:badla']
+TWb8773d94e7,0,0,0,0,0,0,"['grievance:haq', 'mobilization:uth']"
+TWafc1f198c9,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW61e4254497,0,0,1,0,0,1,['threat:khoon']
+TWe9aa4f7928,0,0,0,1,0,1,"['glorification:shaheed', 'mobilization:ehtejaj']"
+TWb3a254d2af,0,0,0,0,0,0,['grievance:haq']
+TW642e2db41a,0,0,0,0,0,0,['threat:badla']
+TW1d26b266ed,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW40ddcd3213,0,0,0,0,0,0,['mobilization:nikal']
+TW0277dd6d0b,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWc3daa9d4fc,0,0,0,0,0,0,['grievance:haq']
+TW1c7fdaa136,0,0,0,0,0,0,['threat:intiqam']
+TW1fbb014bc9,0,0,0,0,0,0,['grievance:haq']
+TW2ffc6dde58,0,0,0,0,0,0,['grievance:haq']
+TWe553a1be30,0,0,0,0,0,0,['mobilization:ao']
+TW9ef4bed8bf,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW91c2f6820f,0,0,0,0,0,0,['threat:tor']
+TWfcd5504ebf,0,0,0,0,0,0,['mobilization:ao']
+TWf183d3990f,0,0,0,0,0,0,"['mobilization:ao', 'threat:khatam']"
+TW21adad3f9e,0,0,0,0,0,0,['threat:khatam']
+TW889b1845b5,0,0,0,0,0,0,['mobilization:protest']
+TW2a005ec781,0,0,0,0,0,0,['grievance:haq']
+TW7056fe7bc2,0,0,1,0,0,0,['mobilization:ehtejaj']
+TW1c5d52bb98,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW9b5f30756c,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'mobilization:nikal']"
+TW3f4b2481a6,0,0,0,0,0,0,"['grievance:haq', 'mobilization:uth']"
+TWe2d7352a9f,0,0,0,0,0,1,['threat:khatam']
+TW0fe8dab5df,0,0,0,0,1,0,['mobilization:ao']
+TW4a152658d0,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'threat:badla']"
+TW12a987ee81,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW8f5efd6077,0,0,0,0,0,0,['ig_outgroup:agent']
+TWb73a56c35f,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW14223e11e4,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW7d9c186a4c,0,0,0,0,0,0,['grievance:haq']
+TW64736baa6a,1,0,0,0,0,0,['ig_outgroup:ghaddar']
+TWd70158b02a,0,0,0,0,0,0,['grievance:haq']
+TW49826e9800,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWfeeccc2131,0,0,0,0,0,0,['threat:tor']
+TWcc8aeffe1a,0,0,0,0,0,0,['mobilization:ao']
+TWe3e7c2edac,1,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TW7bf7f17171,0,0,0,0,0,0,"['ig_outgroup:ghaddar', 'grievance:haq', 'mobilization:ao', 'mobilization:aao']"
+TWa8ab7deb1f,0,0,0,0,0,0,['mobilization:protest']
+TW153a7ac8da,0,0,0,0,0,0,['mobilization:ao']
+TWe17b1d7b66,0,0,1,1,0,0,['grievance:zulm']
+TW87a93366d3,0,0,0,0,0,0,['mobilization:band karo']
+TWe5128b708e,0,0,1,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TW85ac1ce688,0,0,0,0,0,0,['ig_outgroup:dushman']
+TW1cde6a4a21,0,0,0,0,0,0,"['mobilization:nikal', 'threat:khoon']"
+TW1558c07372,0,0,0,0,1,0,['mobilization:niklo']
+TWc0d42aed68,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWb10f563947,1,0,0,0,0,0,['mobilization:nikal']
+TWce8416ad7e,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW80620250b5,0,0,0,0,1,0,"['ig_outgroup:youthia', 'mobilization:ao', 'mobilization:uth']"
+TWb338c851d5,1,0,0,0,0,0,['threat:khoon']
+TWc1373d61ca,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWa984864871,0,0,0,0,0,1,['threat:khatam']
+TW9f530e9120,0,0,0,1,0,0,['glorification:shaheed']
+TW2fdd12bdeb,0,0,0,0,0,0,['mobilization:nikal']
+TW5ccf6d8b5c,1,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWe019ce5fbd,0,0,0,0,0,0,['mobilization:ao']
+TW03ed2a35ef,0,0,0,0,0,1,['mobilization:ao']
+TW44c7144bbc,0,0,0,0,0,0,['mobilization:uth']
+TWde9def361d,0,0,0,0,0,0,['mobilization:uth']
+TW624d39bb7b,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TW6113d87343,0,0,0,0,0,0,['mobilization:nikal']
+TWb19b9c782d,0,0,0,0,0,0,['mobilization:uth']
+TW927d14c0a5,0,0,0,0,0,0,['threat:khatam']
+TW8c8d3521f3,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TWe85821ee35,0,0,0,0,0,0,['mobilization:uth']
+TW6ae3576ae8,0,0,0,0,0,0,['grievance:haq']
+TWf324af9986,0,0,0,0,0,0,['threat:tor']
+TW2ff4f95fe5,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW12068f7804,0,0,0,0,0,0,['threat:tor']
+TW63320e21c4,0,0,0,0,0,0,['threat:tor']
+TW02443bae32,0,0,0,0,0,0,['threat:intiqam']
+TW2df0b9ba43,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TWe12d12df4b,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TW34e3487a22,0,0,0,0,0,0,['mobilization:nikal']
+TWfef5126584,0,0,1,0,0,0,"['grievance:zulm', 'grievance:sitam', 'mobilization:uth']"
+TW17440a2518,0,0,0,0,1,0,['mobilization:uth']
+TW2d482aa1d1,0,0,0,0,0,0,['threat:maar']
+TW2105ec1036,0,0,0,0,0,0,['threat:khatam']
+TWe06cf6eac2,0,0,0,0,1,0,['mobilization:ao']
+TW3aa4eaad86,0,0,1,0,0,0,"['grievance:zulm', 'mobilization:nikal', 'mobilization:ehtejaj']"
+TW95b35e8f6f,0,0,0,0,0,0,['mobilization:nikal']
+TW3e843934bf,0,0,0,0,1,0,['mobilization:ao']
+TWda92f42e92,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TW4438dd1b2c,0,0,1,0,0,0,['grievance:zulm']
+TW9af60ac515,0,0,1,0,0,0,"['ig_outgroup:ghulam', 'grievance:haq', 'mobilization:ehtejaj']"
+TWf0c80a84fa,0,0,0,0,0,0,['grievance:haq']
+TW4065233d13,0,0,0,0,0,0,"['threat:tor', 'threat:khoon']"
+TW8acaf62187,0,0,0,0,0,0,['mobilization:tayyar']
+TW227a8185fa,0,0,0,0,0,0,['threat:tor']
+TW5abd815679,0,0,0,0,0,0,"['ig_outgroup:ghulam', 'threat:intiqam']"
+TWe51ce008fd,0,0,0,0,0,0,['mobilization:ao']
+TW8213a840ad,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW12132f93f5,0,0,0,0,0,0,['threat:intiqam']
+TW48b44ae594,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW0fe11f0278,1,0,0,0,0,0,['threat:khoon']
+TW287f6bd446,0,0,0,0,0,1,['threat:khatam']
+TW271ad3fc77,0,0,0,0,0,0,['mobilization:nikal']
+TW6a5042c029,1,0,0,0,0,0,"['mobilization:ao', 'threat:khatam']"
+TW3874a9a4e5,0,0,0,0,0,0,"['mobilization:ao', 'threat:tor']"
+TW682ab935ee,0,0,0,0,0,0,['mobilization:ao']
+TW5aef04efff,0,0,0,0,0,1,"['mobilization:dharna', 'threat:khatam']"
+TW016a5599d3,0,0,0,0,0,0,['mobilization:ao']
+TW99cc169da7,0,0,0,0,0,0,['grievance:nainsafi']
+TWba4810897f,0,0,0,0,0,0,['grievance:haq']
+TW7e8fef22ec,0,0,0,0,0,0,['threat:khoon']
+TWd769fb1565,0,0,0,0,0,0,['threat:khatam']
+TW65efe18bbb,0,1,0,0,1,0,"['dehumanization:kutta', 'mobilization:niklo', 'mobilization:uth']"
+TWc36566d02d,1,0,0,0,0,0,['ig_outgroup:dushman']
+TW6180ee0c34,0,0,0,0,0,0,['mobilization:uth']
+TW27464b0820,0,0,0,0,0,0,['threat:khatam']
+TWf4087015c0,0,0,0,0,0,0,['threat:khatam']
+TW732fe8d58a,0,0,0,0,1,0,"['mobilization:niklo', 'mobilization:uth', 'mobilization:march']"
+TW244fd71cdf,0,0,0,0,0,0,['mobilization:call']
+TWbbf058e4bb,0,0,0,0,0,0,['grievance:haq']
+TWb6bd99d437,1,0,1,0,0,0,['grievance:zulm']
+TW930b06292d,0,0,0,0,0,0,['threat:khatam']
+TW61ca1eb087,0,0,0,0,0,0,['mobilization:uth']
+TW93c166737a,0,0,0,0,0,0,"['grievance:haq', 'glorification:qurbani']"
+TWdfc7443f77,0,0,0,0,1,0,['threat:khoon']
+TWbcc3619120,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'mobilization:uth']"
+TW64b8daea8e,0,0,0,0,0,0,['mobilization:uth']
+TW95643157b7,0,0,0,0,0,0,"['grievance:haq', 'threat:tor']"
+TW72664d4421,0,0,0,0,0,0,['mobilization:dharna']
+TW4447c0ebef,0,0,0,0,0,0,['mobilization:ao']
+TWab47d5b0e6,0,0,0,0,0,0,['threat:khatam']
+TW5b31e93d4b,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:uth']"
+TW5797793ffd,0,0,0,0,0,0,"['mobilization:uth', 'mobilization:march', 'threat:tor']"
+TWe985a36c13,0,0,0,0,0,0,['threat:maar']
+TW821e0d645d,0,0,1,0,0,0,"['mobilization:ao', 'mobilization:ehtejaj']"
+TW885e3d6d44,1,0,0,1,0,0,['threat:tor']
+TW429c6d30f5,0,0,0,0,0,0,['threat:tor']
+TWf1a0ca9c3f,0,0,0,0,0,0,['grievance:haq']
+TWc57998d332,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWc150b258d5,0,0,0,0,0,0,['mobilization:nikal']
+TWe234f01266,0,0,0,0,0,0,['threat:tor']
+TW7a2ff88ffb,0,0,0,0,0,0,['mobilization:ao']
+TW8f803858cf,0,0,0,0,0,0,['ig_outgroup:bhikari']
+TW8725fda19b,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TW0e5ef346bd,0,0,0,0,0,0,"['grievance:haq', 'mobilization:ao']"
+TWe50b3764ab,1,0,0,0,0,1,['threat:maar']
+TW96dab43eef,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW97915478b8,0,0,0,0,0,0,"['grievance:haq', 'threat:khatam', 'threat:intiqam']"
+TW7296bc9f4a,0,0,0,0,1,0,"['mobilization:protest', 'threat:intiqam']"
+TWc632813d0f,0,0,0,0,1,0,['mobilization:protest']
+TW0300416b8d,0,0,0,0,0,0,['mobilization:ao']
+TWb22da7b3ae,0,0,0,0,0,0,"['ig_outgroup:dushman', 'threat:tor']"
+TWa4ab2519c4,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWc9a2f8df9d,0,0,0,0,0,0,['ig_outgroup:dushman']
+TWb00b27ac8d,1,0,1,0,0,1,['threat:khoon']
+TWf3f4d88f09,0,0,0,0,0,0,['threat:tor']
+TWab1852eab5,0,0,0,0,0,0,['threat:khatam']
+TWc69e748a25,0,0,0,0,0,0,"['threat:khatam', 'threat:tor']"
+TW3fd7393e60,1,0,1,0,0,0,"['ig_outgroup:patwari', 'ig_outgroup:ghulam', 'mobilization:uth']"
+TWc470d7c267,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao', 'threat:tor']"
+TW80bffeb746,0,0,1,0,0,0,['ig_outgroup:ghulam']
+TW9360aec812,0,0,0,0,0,0,"['grievance:haq', 'mobilization:nikal']"
+TW8aa3e4afe3,0,0,0,0,0,0,['grievance:haq']
+TWef8c533c81,0,0,0,0,0,0,['threat:khatam']
+TW3846902be8,0,0,0,0,0,0,"['grievance:haq', 'mobilization:call']"
+TW62f0ddcea1,0,0,0,0,0,0,['threat:khoon']
+TW3b869196e6,0,0,0,0,0,0,['threat:khatam']
+TW7f7636c375,0,0,0,0,0,0,['threat:khatam']
+TW8a05b80a9f,0,0,0,0,0,0,['threat:tor']
+TW718c9f5b60,0,0,0,0,1,0,['mobilization:ao']
+TWd3d265966f,0,0,1,0,0,1,"['grievance:zulm', 'threat:khatam']"
+TW47d7ca4a72,0,0,0,0,0,0,['mobilization:protest']
+TW2e5d807eec,1,0,0,0,0,0,"['ig_outgroup:dushman', 'grievance:haq']"
+TW0301f5bf9c,0,0,0,0,0,0,['grievance:haq']
+TW0af9afed25,0,0,1,0,0,1,"['grievance:zulm', 'grievance:haq', 'threat:maar']"
+TW1151adac09,0,0,0,0,0,0,['mobilization:ao']
+TW4ea06f226f,0,0,0,1,0,0,['glorification:qurbani']
+TWb8efeb020a,0,0,0,0,0,0,['threat:badla']
+TWa25b4bc412,1,0,0,0,0,0,['ig_outgroup:ghaddar']
+TWa4aea29458,0,0,0,0,0,0,['mobilization:uth']
+TW5a9005d37d,1,0,0,0,0,0,['ig_outgroup:dushman']
+TWb1180454ce,1,0,0,0,0,0,['threat:khoon']
+TWb87e1e45f9,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:ao', 'mobilization:aao']"
+TW8c30a8b19f,0,0,0,0,0,0,['grievance:haq']
+TW20803815fc,0,0,0,0,0,0,"['mobilization:ao', 'mobilization:aao']"
+TWce75d0cc16,0,0,0,1,0,0,"['glorification:ghazi', 'mobilization:call']"
+TW4ae63f19f5,1,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW5da8ace4b9,0,0,0,0,0,1,"['mobilization:ao', 'mobilization:tayyar']"
+TWfcc2a4607b,0,0,0,1,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"
+TW6814f9bfc8,0,0,0,0,0,0,"['mobilization:nikal', 'mobilization:march', 'mobilization:protest']"

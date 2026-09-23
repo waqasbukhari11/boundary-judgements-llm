@@ -1,0 +1,7 @@
+indicator,annotator1_positives,annotator2_positives,raw_agreement_pct,krippendorff_alpha
+ig_outgroup,31,35,91.0,0.674
+dehumanization,0,1,99.5,
+grievance,36,37,99.5,0.983
+glorification,6,6,100.0,1.0
+mobilization,25,22,98.5,0.928
+threat,13,5,96.0,0.536
